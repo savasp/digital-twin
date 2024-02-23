@@ -1,0 +1,26 @@
+[
+  {
+    "School Name": "Newcastle University",
+    "Start Date": "Sep 1996",
+    "End Date": "Sep 2000",
+    "Notes": "Title of PhD thesis: Run-time Support for Parallel Object-Oriented Computing. The research work involved the implementation of an all-in software object-based DSM system, novel object caching techniques for distributed systems, and a new lazy task creation technique. The thesis dealt with design and implementation issues in the areas of load-balancing, high-speed communications, and clustering.",
+    "Degree Name": "PhD",
+    "Activities": ""
+  },
+  {
+    "School Name": "",
+    "Start Date": "Oct 1995",
+    "End Date": "Aug 1996",
+    "Notes": "Achieved highest marks in year. Dissertation work was in the area of run time support for mobile agents.",
+    "Degree Name": "MSc",
+    "Activities": ""
+  },
+  {
+    "School Name": "",
+    "Start Date": "Oct 1991",
+    "End Date": "Sep 1995",
+    "Notes": "",
+    "Degree Name": "Bachelors",
+    "Activities": "Second in class. Final-year project on DNS and sendmail was awarded with distinction."
+  }
+]
