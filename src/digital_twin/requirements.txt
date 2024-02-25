@@ -1,0 +1,6 @@
+langchain==0.1.9
+langchain-core==0.1.26
+langchain-community==0.0.24
+jq==1.6.0
+bs4==0.0.2
+faiss-cpu==1.7.4
