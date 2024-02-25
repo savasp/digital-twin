@@ -5,15 +5,6 @@ from ..digital_twin.langchain import *
 import time
 import os
 
-#llms = [
-#    "digital_twin_mistral",
-#    "digital_twin_mixtral",
-#    "digital_twin_llama2-7b",
-#    "digital_twin_llama2-13b",
-#    "digital_twin_gemma-2b",
-#    "digital_twin_gemma-7b",
-#]
-
 llms = [
     "llama2:7b",
     "llama2:13b",
@@ -60,24 +51,11 @@ class ChainInvokeHandler(BaseCallbackHandler):
         formatted_prompts = "\n".join(prompts)
         #print(formatted_prompts)
 
-    def on_chat_model_start(
-        self,
-        serialized: Dict[str, Any],
-        messages: List[List[BaseMessage]],
-        *,
-        run_id: UUID,
-        parent_run_id: Optional[UUID] = None,
-        tags: Optional[List[str]] = None,
-        metadata: Optional[Dict[str, Any]] = None,
-        **kwargs: Any,
-    ) -> Any:
-        print(messages)
-
-def question_with_vector_context(question: str) -> str:
+def question_with_vector_context(chain: Runnable, question: str) -> str:
     response = chain.invoke({"input": question}, config={"callbacks": [ChainInvokeHandler()]})
     return response["answer"]
     
-def question_with_context(question: str, docs: List[Document]) -> str:
+def question_with_context(chain: Runnable, question: str, docs: List[Document]) -> str:
     answer = chain.invoke({"input": question, "context": docs}, config={"callbacks": [ChainInvokeHandler()]})
     return answer
 
@@ -87,15 +65,13 @@ def answer_questions(set_name: str, chain: Runnable, questions: List[str], docs:
     print("-------------")
     
     if (docs is None):
-        ask_question = lambda q: question_with_vector_context(q)
-        ctx = "vector"
+        ask_question = lambda q: question_with_vector_context(chain, q)
     else:
-        ask_question = lambda q: question_with_context(q, docs)
-        ctx = "inline"
+        ask_question = lambda q: question_with_context(chain, q, docs)
         
     i = 1
     for question in questions:
-        results_file = open(dir_path + "/results/" + set_name + f"_{ctx}_{i}.txt", "w")    
+        results_file = open(dir_path + f"/results/{set_name}_{i}.txt", "w")    
         i += 1
         print(question, end="...")
         start = time.perf_counter_ns()
@@ -105,34 +81,39 @@ def answer_questions(set_name: str, chain: Runnable, questions: List[str], docs:
         print("done")
 
     print("=============")
-        
 
-if __name__ == "__main__":
-    
+def main():
     # Load all the docs
     webpages = ("web_pages", load_web_pages(pages))
     linkedin_docs = ("linkedin", load_linkedin_json_docs(json_docs))
-    all_docs = ("webpages_linkedin", webpages + linkedin_docs)
+    all_docs = ("webpages_linkedin", webpages[1] + linkedin_docs[1])
  
+    docs = [webpages, linkedin_docs, all_docs]
+    
     # The prompt remains the same
     prompt = set_up_prompt()
 
     # For each of the LLM models we are using
     for model in llms:
         # For each set of docs
-        for (ctx_title, ctx_docs) in [webpages, linkedin_docs, all_docs]:   
+        for (ctx_title, ctx_docs) in docs:
             set_name_prefix =  f"/{model.replace(':', '-')}_{ctx_title}"
             
             # Set up the LLM
             llm = set_up_llm(model)
 
+            # Build the chain using a vector representation of the context
+            retrieval_chain = retrieval_based_chain(llm, prompt, ctx_docs)
+
+            answer_questions(set_name_prefix + "_vector", retrieval_chain, questions)
+            
             # Build the chain using the context as is
-            chain = direct_context_based_chain(llm, prompt, ctx_docs)
+            #chain = direct_context_based_chain(llm, prompt, ctx_docs)
             
             # Answer the questions
-            answer_questions(set_name_prefix + "direct", chain, questions, ctx_docs)
+            #answer_questions(set_name_prefix + "_direct", chain, questions, ctx_docs)
+        
+        
+if __name__ == "__main__":
+    main()
             
-            # Build the chain using a vector representation of the context
-            chain = retrieval_based_chain(llm, prompt, ctx_docs)
-            
-            answer_questions(set_name_prefix + "vector", chain, questions)
