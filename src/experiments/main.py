@@ -14,11 +14,6 @@ llms = [
     "mixtral",
 ]
 
-docs_for_context = [
-   load_web_pages,
-   load_linkedin_json_docs, 
-]
-
 pages = [
     "https://savas.me",
     "https://savas.me/about",
@@ -84,9 +79,9 @@ def answer_questions(set_name: str, chain: Runnable, questions: List[str], docs:
 
 def main():
     # Load all the docs
-    webpages = ("web_pages", load_web_pages(pages))
+    webpages = ("webpages", load_web_pages(pages))
     linkedin_docs = ("linkedin", load_linkedin_json_docs(json_docs))
-    all_docs = ("webpages_linkedin", webpages[1] + linkedin_docs[1])
+    all_docs = ("webpages-linkedin", webpages[1] + linkedin_docs[1])
  
     docs = [webpages, linkedin_docs, all_docs]
     
