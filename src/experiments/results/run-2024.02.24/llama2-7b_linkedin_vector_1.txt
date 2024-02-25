@@ -1,0 +1,3 @@
+What is your current job?
+1982.902917
+I am currently a Partner Software Architect at Microsoft, where I oversee the architecture of Cortana and lead initiatives to support user-centric experiences.

@@ -1,0 +1,3 @@
+What are your main technical interests?
+17087.827459
+ My main technical interests include natural language processing, knowledge representation and reasoning, large-scale distributed systems, reactive computing, cloud computing, graph stores, web services, system architecture, software design and engineering. I am particularly passionate about digital agents and the ways in which they can enhance our lives through natural interaction with humans.

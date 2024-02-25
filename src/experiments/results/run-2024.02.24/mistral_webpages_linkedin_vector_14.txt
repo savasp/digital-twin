@@ -1,0 +1,23 @@
+What courses or projects did you complete that are relevant to the position you are applying for?
+10588.331125
+ I have a PhD in Computer Science with a focus on artificial intelligence, natural language processing, and large-scale distributed systems. During my PhD studies, I worked on developing conversational agents and improving their ability to understand and respond to natural language queries. I also gained experience in designing and implementing large-scale, real-time data processing pipelines for analyzing and understanding natural language text.
+
+Additionally, I have completed several relevant courses throughout my academic and professional career:
+
+* Database Systems (Cornell University)
+* Advanced Data Structures and Algorithms (Stanford University)
+* Machine Learning (MIT)
+* Natural Language Processing (Carnegie Mellon University)
+* Distributed Systems (University of Washington)
+
+In my professional career, I have worked on various projects related to conversational agents, large-scale distributed systems, and knowledge representation and reasoning. Some notable projects include:
+
+* Co-founder and architect of Microsoft's Cortana personal digital assistant project, where I was responsible for overall architecture guidance, system design, and software engineering efforts.
+* Lead developer on Amazon's Alexa AI team, where I contributed to the advancement of natural human-agent interactions and developed new features that enhanced conversational capabilities.
+* Worked on a language and conversational understanding platform at Facebook, which processes all of Facebook’s posts and comments.
+
+These experiences have given me a strong foundation in the technologies and concepts required for developing advanced conversational agents and other AI applications. I am confident that my background and experience make me an excellent fit for your team.
+
+Let me know if you have any questions or would like to discuss my qualifications further.
+
+Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer

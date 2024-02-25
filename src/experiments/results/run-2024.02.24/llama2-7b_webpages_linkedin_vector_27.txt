@@ -1,0 +1,11 @@
+How do you collaborate and communicate with your colleagues, managers, and clients?
+9735.615084
+  Based on the information provided in the context, Savas Parastatidis values effective communication and collaboration within his work. He believes that building products that enhance people's lives through AI requires a team effort, and he has worked on technologies that support natural human-digital agent interactions.
+
+As a Software Engineer at Meta's Reality Lab Research, Savas collaborates with other engineers, managers, and clients to develop and improve AI-powered experiences. He provides technical leadership and overall architecture guidance, which involves working closely with his team members and stakeholders to identify project requirements and develop effective solutions.
+
+To facilitate collaboration and communication within his team, Savas uses various tools and techniques. For example, he uses GitHub to manage code repositories and collaborate with other developers. He also utilizes video conferencing tools like Zoom or Google Meet for remote meetings and discussions.
+
+In addition, Savas believes in being transparent and open about his work. He shares his thoughts and ideas on his blog and social media platforms, which helps to foster a culture of collaboration and knowledge sharing within the AI community.
+
+Overall, Savas Parastatidis values effective communication and collaboration as essential components of building innovative AI-powered products that enhance people's lives.

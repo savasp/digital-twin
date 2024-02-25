@@ -1,0 +1,16 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+12680.685292
+  Based on the information provided on Savas Parastatidis's LinkedIn profile, he has developed and acquired various skills and qualifications in his role as a Research Engineer at Meta's Reality Lab Research. Some of these include:
+
+1. Artificial Intelligence (AI): Savas has built products that enhance human life through the application of AI. He has also worked on technologies that support natural interaction between humans and AI-powered experiences.
+2. Distributed systems: Savas has experience in building distributed systems based on the Web's architecture, leveraging technologies such as HTTP and REST.
+3. Enterprise applications: Savas has worked on representative enterprise scenarios and solutions using Java and .NET.
+4. Language/conversational systems: Savas has worked on natural language/conversational systems for over 11 years now.
+5. Machine learning: Savas has studied machine learning and has experience in developing robust distributed applications.
+6. Mathematics: Savas has studied mathematics, which has helped him understand the fundamental principles of the Web's architecture.
+7. Programming languages: Savas is proficient in programming languages such as Java and .NET.
+8. Reasoning: Savas has experience in ontology-based reasoning with ChatGPT's help.
+9. Research: Savas has published articles and research papers on various topics related to his field of work, including the Web's architecture, distributed systems, enterprise applications, language/conversational systems, machine learning, and mathematics.
+10. Leadership: Savas has led teams and projects, demonstrating his ability to manage and coordinate with others.
+
+Overall, Savas Parastatidis has acquired a broad range of skills and qualifications in his role as a Research Engineer at Meta's Reality Lab Research, which have prepared him well for his work in developing innovative AI-powered products and solutions.

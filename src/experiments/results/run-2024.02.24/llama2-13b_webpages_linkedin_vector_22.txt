@@ -1,0 +1,9 @@
+What are your main duties and responsibilities in this role?
+14991.750958
+    Hello! As a Research Engineer at Meta's Reality Lab Research, my primary responsibilities include developing and improving AI technologies to enhance human interaction with AI-powered experiences. My work involves creating technologies that support natural human-AI interactions, focusing on the development of AI systems that can understand human behavior and emotions.
+
+    To accomplish this, I collaborate closely with cross-functional teams comprising researchers, engineers, and scientists to design and develop cutting-edge AI technologies. My duties also involve conducting research in machine learning, computer vision, and human-computer interaction to identify innovative solutions that can be applied to various products and services.
+
+    Additionally, I am responsible for authoring and co-authoring technical papers and presenting my findings at relevant conferences and internal events. I strive to advance the state of the art in AI technologies and push the boundaries of what is possible in human-AI interactions.
+
+    Overall, my primary objective is to utilize my expertise in AI and machine learning to create innovative solutions that improve and enhance human life.

@@ -1,0 +1,3 @@
+What do you currently do at Meta?
+6541.045666
+Savaas Parastatidis is a research engineer at Meta's Reality Lab Research, where he builds technologies that support the natural interaction between humans and AI-powered experiences. He has worked on language/conversational systems for over 11 years now and has experience in various roles, including senior principal engineer in Alexa AI and co-creator of Cortana. Savas is also a published author, with a book titled "REST in Practice" available on O'Reilly and Amazon. He has also written several articles and research papers, which can be found on his Google Scholar page.

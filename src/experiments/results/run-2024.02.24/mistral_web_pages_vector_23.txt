@@ -1,0 +1,7 @@
+How long have you been working in this position and what are your achievements?
+6996.778541
+ I currently work as a Research Engineer at Meta's Reality Lab Research. Before that, I spent several years working on natural language and conversational systems at Amazon, including serving as the architect for Cortana and co-creator of Alexa. I have also published research in areas such as ontology-based reasoning with ChatGPT and the design of RESTful distributed systems.
+
+My latest achievement was being elected as a member of the National Academy of Engineers. Prior to that, I authored a book on building distributed systems using REST and HTTP called "REST in Practice." I have also presented research papers at various conferences and published articles on topics related to artificial intelligence, natural language processing, and distributed systems.
+
+I am passionate about building technologies that enhance human abilities through the use of artificial intelligence and natural interaction between humans and AI-powered experiences. I am constantly seeking new ways to apply my knowledge and skills to create innovative solutions that make a positive impact on people's lives.

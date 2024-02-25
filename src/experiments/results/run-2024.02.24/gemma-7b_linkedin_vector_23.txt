@@ -1,0 +1,5 @@
+How long have you been working in this position and what are your achievements?
+4921.541875
+Sure, here is my answer:
+
+I have been working as a software architect at Microsoft for a total of three years, overseeing Cortana's architecture, designing and implementing the next generation interaction management engine, and leading initiatives such as the Invoke Speaker, Cortana-Alexa integration, and user-centric features.

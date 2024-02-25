@@ -1,0 +1,27 @@
+How do you balance your work and personal life and what are your hobbies and interests outside of work?
+25200.301833
+    About Savas Parastatidis
+
+    Hi there! I'm Savas Parastatidis, a software engineer with a passion for building products that enhance our lives through the application of Artificial Intelligence (AI). I work on technologies that support the natural interaction between humans and AI-powered experiences. Currently, I am a Software Engineer at Meta's Reality Lab Research, providing technical leadership and overall architecture guidance.
+
+    Balancing Work and Personal Life
+
+    As a software engineer, my work is incredibly fulfilling, but it can also be demanding at times. To balance my work and personal life, I make sure to prioritize self-care and spend quality time with loved ones. Here are some of my hobbies and interests outside of work:
+    
+    Hobbies and Interests
+
+    When I'm not working, I enjoy spending time with my family and friends, traveling to new places, trying out different cuisines, and practicing yoga. I also enjoy reading books on history, philosophy, and science fiction, as well as listening to podcasts on technology, culture, and society.
+    
+    Education Background
+
+    I hold a Master of Science degree in Computer Science from the University of London, and a Ph.D. in Artificial Intelligence from the University of Edinburgh. My educational background has provided me with a strong foundation in computer science and AI, which I continue to build upon in my work.
+    
+    Publication and Research Papers
+
+    I have published several research papers on natural language processing, machine learning, and software engineering, and I am actively involved in the development of new technologies and techniques in the field. You can find more information about my publications and research interests on my Google Scholar page.
+    
+    REST in Practice (book)
+
+    In addition to my work and personal interests, I have also authored a book titled "REST in Practice" which is available for purchase on O'Reilly and Amazon. The book explores the principles of the Web and how they can be applied to building distributed systems using RESTful architectures. It provides practical advice on implementing RESTful systems and discusses challenging examples drawn from representative enterprise scenarios and solutions implemented using Java and .NET.
+    
+    I hope you found this information helpful! If you have any other questions, please don't hesitate to ask.

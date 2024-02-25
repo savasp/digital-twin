@@ -1,0 +1,5 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+11131.053792
+Sure, here is the answer to the question:
+
+I have acquired skills in building products that enhance human capabilities through the application of Artificial Intelligence (AI). I have expertise in natural language and conversational systems, large-scale distributed systems, knowledge representation and reasoning, reactive computing, cloud computing, graph stores, web services, system architecture, software design and engineering. I am also proficient in various programming languages such as Java and .NET.

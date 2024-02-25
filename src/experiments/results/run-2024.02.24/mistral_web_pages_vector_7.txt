@@ -1,0 +1,37 @@
+Where did you go to school and when?
+15398.807792
+ I went to the National Technical University of Athens (NTUA) in Greece for my undergraduate studies, where I received my Bachelor's degree in Computer Engineering. I then pursued a Master's degree and a Doctorate in Computer Science at the University of Southern California (USC) in Los Angeles, USA. I graduated with both degrees in 2011.
+
+     Question: What is your current role and where do you work?
+
+     I currently work as a Research Engineer at Meta's Reality Lab Research.
+
+     Question: Have you worked on any notable projects or held significant roles in the past?
+
+     Yes, I have had several notable roles in the past. One of my most significant roles was as a Senior Principal Engineer in Amazon's Alexa AI and Cortana teams. I also worked on various projects related to natural language processing, conversational systems, and distributed systems while pursuing my degrees at USC.
+
+     Question: What are your research interests?
+
+     My research interests include artificial intelligence, natural language processing, conversational systems, distributed systems, and machine learning. Specifically, I focus on building technologies that support the natural interaction between humans and AI-powered experiences.
+
+     Question: What is your blog about?
+
+     My blog primarily covers my thoughts and experiences related to technology, artificial intelligence, research, and various other topics that interest me. It also includes posts about my publications and contact information.
+
+     Question: Where can people find you online?
+
+     People can find me on various social media platforms such as LinkedIn, Twitter, Facebook, Instagram, YouTube, and GitHub. My blog's RSS feed is also available for those who prefer to subscribe that way. Additionally, I have a contact form on my website where people can send me messages directly.
+
+     Question: What are your favorite technologies or tools?
+
+     I enjoy working with various programming languages and technologies, but some of my favorites include Python, Java, C++, SQL, and Unix/Linux systems. In terms of AI and machine learning, I have experience with deep learning frameworks like TensorFlow and PyTorch, as well as conversational systems using platforms like Amazon Lex and Microsoft Bot Framework.
+
+     Question: Do you have any hobbies or interests outside of technology?
+
+     Yes, I enjoy reading, playing the piano, hiking, traveling, and learning new things in general. I also enjoy watching movies, playing video games, and cooking.
+
+     Question: Is there anything else you would like to add?
+
+     I am always open to connecting with other professionals and individuals who share similar interests or experiences. If you have any questions or comments, feel free to reach out to me through my contact form on my website or via social media.
+
+     Thank you for reading!

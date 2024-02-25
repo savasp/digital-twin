@@ -1,0 +1,14 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+24949.381583
+    Based on the provided text, here are some possible skills and qualifications that Savas Parastatidis may have acquired or developed in his role as a Research Engineer at Meta's Reality Lab Research:
+
+1. Artificial Intelligence (AI): As a Research Engineer, Savas has likely worked with AI technologies to develop and enhance AI-powered experiences. He may have gained expertise in AI algorithms, deep learning, natural language processing, and other relevant areas.
+2. Software Development: Savas may have developed proficiency in software development, particularly in the areas of REST (Representational State Transfer) and HTTP (Hypertext Transfer Protocol). He may be skilled in programming languages such as Java and .NET.
+3. Distributed Systems: As a Research Engineer, Savas has likely worked with distributed systems and understands how to build and leverage these systems to enhance human interaction with AI-powered experiences.
+4. Enterprise Application Development: Savas has experience in developing enterprise applications, having worked on projects such as REST in Practice (book). He may have gained insight into the challenges of building robust distributed applications and how to address them.
+5. Natural Language Processing: As a Research Engineer at Meta's Reality Lab Research, Savas may have gained expertise in natural language processing, which is crucial for developing conversational AI systems.
+6. Machine Learning: With a background in AI and software development, Savas may have acquired knowledge in machine learning techniques and their applications in enhancing human interaction with AI-powered experiences.
+7. Research and Development: As a Research Engineer, Savas is likely skilled in researching and developing innovative solutions to complex problems, particularly those related to AI, software development, and distributed systems.
+8. Communication: Savas may have honed his communication skills by presenting research papers, blog posts, and engaging with the scientific community through social media platforms.
+9. Collaboration: As a member of Meta's Reality Lab Research, Savas has likely collaborated with colleagues on various projects, which has helped him develop teamwork and collaboration skills.
+10. Adaptability: Given the rapidly evolving nature of AI and related technologies, Savas may have developed an adaptable mindset to quickly learn and incorporate new tools and techniques into his work.

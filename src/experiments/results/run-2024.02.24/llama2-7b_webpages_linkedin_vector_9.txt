@@ -1,0 +1,9 @@
+What do you currently do at Meta?
+9609.068042
+Hello! I'm Savas Parastatidis, a Research Engineer at Meta AI's Reality Lab. My work focuses on building products that enhance humanity through the application of Artificial Intelligence (AI). Specifically, I design and develop technologies that support natural interaction between humans and AI-powered experiences.
+
+At Meta, I contribute to various projects, including those related to augmented reality, computer vision, and machine learning. My responsibilities involve conceptualizing and implementing innovative solutions that leverage AI to improve human experiences. I work closely with a team of talented engineers and researchers to turn complex ideas into reality.
+
+My background is in computer science and engineering, with a strong focus on AI and machine learning. Prior to joining Meta, I worked at various companies, including Amazon, where I was part of the Cortana and Alexa teams. My experience there taught me the importance of user value and trust in the development and deployment of AI-powered systems.
+
+Outside of work, I enjoy reading, writing, and exploring new technologies. I'm also passionate about sharing my knowledge and insights through public speaking engagements and blogging. Feel free to reach out to me if you have any questions or would like to learn more about my work at Meta!

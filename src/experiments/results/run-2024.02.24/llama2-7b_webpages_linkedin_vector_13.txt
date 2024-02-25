@@ -1,0 +1,29 @@
+What was your major or field of study and why did you choose it?
+12094.130667
+Savas Parastatidis's fields of study and work experience include:
+
+Major or Field of Study: Computer Science, Artificial Intelligence, Machine Learning, Natural Language Processing
+
+Reason for Choosing: I have always been fascinated by the potential of technology to enhance human life. As a child, I was fascinated by computers and how they could be used to solve complex problems. As I grew older, my interest shifted towards artificial intelligence, machine learning, and natural language processing, as I saw the potential of these fields to revolutionize various industries and improve people's lives.
+
+Work Experience:
+
+Senior Principal Engineer at Meta's Reality Lab Research
+
+* Led the development of several AI-powered products and experiences, including augmented reality glasses and a virtual world platform
+* Collaborated with cross-functional teams to design and implement AI systems that enhance human interaction and improve user experience
+* Spearheaded the development of a new ontology-based reasoning system for chatbots and voice assistants
+
+Alexa AI and Cortana's Architect & Co-Creator
+
+* Designed and implemented the architecture for Alexa and Cortana's natural language processing and machine learning systems
+* Collaborated with product managers and engineers to develop and improve voice-controlled interfaces for various devices
+* Co-created a new programming language for building conversational AI systems
+
+Publications:
+
+REST in Practice (book) - Co-author
+
+* Explored the architectural principles of the Web and their applicability to distributed systems
+* Demonstrated how to build systems that use HTTP and leverage REST's tenets
+* Provided practical examples drawn from enterprise scenarios and solutions implemented using Java and .NET.

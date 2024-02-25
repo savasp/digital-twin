@@ -1,0 +1,5 @@
+What is your highest level of education and what degree or certificate did you obtain?
+5270.428208
+Savas Parastatidis, MSc., PhD.
+
+I hold a PhD in Computer Science from the University of Oxford. My thesis was titled "Reasoning about Ontologies in Natural Language Processing". I also have an MSc in Artificial Intelligence from the University of Edinburgh.

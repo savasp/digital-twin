@@ -1,0 +1,10 @@
+What are your main technical interests?
+15322.204584
+    Based on the information provided, it appears that Savas Parastatidis's main technical interests include:
+
+1. Artificial Intelligence (AI): As a Software Engineer at Meta‘s Reality Lab Research, Savas works on technologies that support natural human-AI interactions.
+2. Natural Language Processing (NLP): As a Senior Principal Engineer in Amazon’s Alexa AI and Microsoft Cortana’s architect & co-creator, Savas has experience working with NLP.
+3. Conversational interfaces: Savas has worked on various conversational interface projects, including the development of a language and conversational understanding platform for Facebook’s Applied Machine Learning group.
+4. Distributed systems: As an architect, Savas has experience designing scalable and reliable systems in support of natural human-digital agent interactions.
+5. System architecture: Savas has a deep understanding of system architecture, including the design of web services, graph stores, and cloud computing.
+6. Software design and engineering: Savas has expertise in software design and engineering, as demonstrated by his work on various conversational interface projects.

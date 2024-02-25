@@ -1,0 +1,7 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+5750.238167
+As Savas Parastatidis, I can confidently say that my education and work experience are closely intertwined. My education in computer science has provided me with a solid foundation in programming languages, data structures, and algorithms, which I have been able to apply in my current role as Partner Software Architect at Microsoft.
+
+In my previous role at Cortana, I oversaw the overall architecture of the product and ensured technology alignment across the product. This involved leading the design and implementation of the next generation interaction management engine, as well as overseeing the protocol and implementation for the Invoke Speaker, the Cortana-Alexa integration, and Cortana in Skype.
+
+My education has also helped me to support user-centric experiences such as a user-centric (vs device-centric) notification service and single user profile across Microsoft's products. Additionally, my experience working with large scale systems and agile methodologies has allowed me to effectively lead initiatives and collaborate with cross-functional teams to deliver high-quality software solutions.

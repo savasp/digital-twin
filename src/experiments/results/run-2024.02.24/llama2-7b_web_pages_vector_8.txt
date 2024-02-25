@@ -1,0 +1,6 @@
+What are your main technical interests?
+5918.0125
+Suras's technical interests include: 
+1. Application experiences that understand natural language, can engage in conversations, provide answers, anticipate and proactively complete tasks on behalf of users.
+2. Scalable and reliable systems in support of natural human-digital agent interactions. 
+3. Large-scale distributed systems, knowledge representation and reasoning, reactive computing, cloud computing, graph stores, web services, system architecture, software design, and engineering.

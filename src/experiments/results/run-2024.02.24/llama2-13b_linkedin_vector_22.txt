@@ -1,0 +1,3 @@
+What are your main duties and responsibilities in this role?
+4942.23575
+    As Partner Software Architect at Microsoft, my primary responsibilities include overseeing the architecture of Cortana's overall technology alignment across products, leading the design and implementation of the next-generation interaction management engine, and supervising the protocol and implementation for the Invoke Speaker, the Cortana-Alexa integration, and Cortana in Skype.

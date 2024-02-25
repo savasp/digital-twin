@@ -1,0 +1,5 @@
+What are your main technical interests?
+10687.606084
+Sure, here is the answer to the question:
+
+My main technical interests are application experiences that understand natural language, can engage in conversations, provide answers, anticipate and proactively complete tasks on behalf of users, are personalized, and react to changes in the world’s information streams. I also enjoy working on scalable and reliable systems in support of natural human-digital agent interactions.

@@ -1,0 +1,9 @@
+What is your current or most recent job title and employer?
+9226.987959
+    Based on the information provided in the text, the current or most recent job title and employer of Savas Parastatidis is:
+
+    "Research Engineer at Meta's Reality Lab Research"
+
+This information can be found in the following sentence:
+
+    "I work as a Research Engineer at Meta‘s Reality Lab Research."

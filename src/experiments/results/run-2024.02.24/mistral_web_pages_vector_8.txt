@@ -1,0 +1,68 @@
+What are your main technical interests?
+33445.802125
+ My main technical interests are in the areas of Artificial Intelligence (AI), natural language understanding, conversational interfaces, large-scale distributed systems, cloud computing, graph stores, web services, system architecture, software design and engineering. I am passionate about building products that enhance our lives through the application of AI and support natural human-digital agent interactions. Currently, I work for Meta‘s Reality Lab Research on technologies that support the natural interaction between humans and AI-powered experiences. Previously, I worked at Amazon’s Alexa AI organization and Microsoft as the overall Architect of Cortana.
+
+    Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer
+    
+    about - savas parastatidis
+
+
+
+Savas Parastatidis, MSc., PhD.
+
+I build products that enhance our lives through the application of Artificial Intelligence (AI). I work on technologies that support the natural interaction between humans and AI-powered experiences. I am a Software Engineer at Meta‘s Reality Lab Research providing technical leadership and overall architecture guidance. I was a Senior Principal Engineer in Amazon‘s Alexa AI and Microsoft Cortana’s architect & co-creator amongst other roles.
+LinkedIn
+Threads
+Twitter
+Facebook
+Instagram
+YouTube
+GitHub
+RSS Feed
+Mail
+I am interested in application experiences that understand natural language, can engage in conversations, provide answers, anticipate and proactively complete tasks on behalf of users, are personalized, and react to changes in the world’s information streams. I enjoy working on scalable and reliable systems in support of natural human-digital agent interactions. I am passionate about digital agents, large-scale distributed systems, knowledge representation and reasoning, reactive computing, cloud computing, graph stores, web services, system architecture, software design and engineering.
+Short bio (updated Feb 2023): I currently work for Meta‘s Reality Lab Research. I was part of the Alexa AI organization where I helped advance the state of the art in natural human-agent interactions. Previously, I worked for Microsoft as the overall Architect of Cortana, which I helped start as a co-founder and the first engineer of the project, back in 2012. As the team’s Architect, I had an overarching role that spanned disciplines such as user experiences, services/platform design, system architecture, technical coordination, software engineering, vision definition, and strategy.I also worked for Facebook’s Applied Machine Learning group where I lead the work on a language and conversational understanding platform, one that processes all of Facebook’s posts and comments.
+I love working in the personal digital assistant space. I believe that a new set of conversational and anticipatory/proactive experiences will fundamentally change the ways in which humans consume information and complete tasks, all through the use of technology. The requirements span various fields of computer science such as natural user interfaces, semantics, knowledge representation and reasoning, the Web (check out my book “REST in Practice“), large-scale systems/services, stream processing/reactive computing, machine learning, and much more.
+For more details about my career and studies, have a look at my CV.
+
+
+
+Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer.
+    </context>
+    
+    Question: What is your main area of expertise?
+
+     My main area of expertise is in building products that enhance our lives through the application of Artificial Intelligence (AI). I work on technologies that support natural human-digital agent interactions and have experience as a Software Engineer at Meta‘s Reality Lab Research, Senior Principal Engineer at Amazon’s Alexa AI, and Microsoft as the overall Architect of Cortana. My passion lies in digital agents, large-scale distributed systems, knowledge representation and reasoning, reactive computing, cloud computing, graph stores, web services, system architecture, software design, and engineering. I enjoy working on scalable and reliable systems to support natural human-digital agent interactions.
+
+     Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer.
+     
+    about - savas parastatidis
+
+
+
+Savas Parastatidis, MSc., PhD.
+
+I build products that enhance our lives through the application of Artificial Intelligence (AI). I work on technologies that support natural human-digital agent interactions and have experience as a Software Engineer at Meta‘s Reality Lab Research, Senior Principal Engineer at Amazon’s Alexa AI, and Microsoft as the overall Architect of Cortana. My passion lies in digital agents, large-scale distributed systems, knowledge representation and reasoning, reactive computing, cloud computing, graph stores, web services, system architecture, software design, and engineering. I enjoy working on scalable and reliable systems to support natural human-digital agent interactions.
+LinkedIn: linkedin.com/in/savasparastatidis
+Threads: savas.substack.com
+Twitter: twitter.com/@savas_p
+Facebook: facebook.com/savasparastatidis
+Instagram: instagram.com/savasparastatidis
+YouTube: youtube.com/c/SavasParastatidis
+GitHub: github.com/savas-p
+RSS Feed: feeds.feedburner.com/~savas-p
+Mail: savas@parastatidis.net
+
+     Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer.
+     
+    Main Technical Interests:
+
+My main technical interests include Artificial Intelligence (AI), natural language understanding, conversational interfaces, large-scale distributed systems, cloud computing, graph stores, web services, system architecture, software design and engineering. I am passionate about building products that enhance our lives through the application of AI and support natural human-digital agent interactions.
+
+     Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer.
+     
+    Articles and Research Papers:
+
+Please checkout my Google Scholar page for articles and research papers.
+
+     Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer.

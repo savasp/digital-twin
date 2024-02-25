@@ -1,0 +1,12 @@
+What are your main duties and responsibilities in this role?
+7509.869833
+  1. Build products that enhance our lives through the application of Artificial Intelligence (AI).
+2. Support the natural interaction between humans and AI-powered experiences.
+3. Work as a Research Engineer at Meta's Reality Lab Research.
+4. Were a Senior Principal Engineer in Alexa AI and Cortana's architect & co-creator.
+5. Create technologies that enhance humanity.
+6. Build distributed systems based on the Web's architecture.
+7. Implement systems that use the Web's application protocol, HyperText Transfer Protocol (HTTP).
+8. Leverage REST's architectural tenets.
+9. Explain the Web's fundamental principles in simple terms.
+10. Discuss the relevance of these principles in developing robust distributed applications.

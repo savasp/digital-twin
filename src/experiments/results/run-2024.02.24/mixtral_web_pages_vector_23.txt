@@ -1,0 +1,3 @@
+How long have you been working in this position and what are your achievements?
+16466.533583
+ I have been working as a Research Engineer at Meta‘s Reality Lab Research for an undisclosed period. Before that, I worked at Amazon as a Senior Principal Engineer in Alexa AI and was the architect and co-creator of Cortana. My achievements include building technologies that support the natural interaction between humans and AI-powered experiences, and working on language/conversational systems for about 11 years.

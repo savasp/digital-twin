@@ -1,0 +1,7 @@
+What was your major or field of study and why did you choose it?
+14550.210542
+    Hello! My name is Savas Parastatidis, and I studied Computer Science. I chose this field because I have always been fascinated by the potential of technology to enhance humanity and improve our lives. I was particularly drawn to the field of Artificial Intelligence (AI) because it offers a powerful tool for creating such enhancements.
+
+I pursued my undergraduate studies in Greece, and then moved to Canada for my graduate studies. I hold a Master's degree in Computer Science from the University of Waterloo, and a PhD in Computer Science from the University of Toronto. My research focused on Natural Language Processing (NLP) and Machine Learning (ML), with applications in conversational systems and human-computer interaction.
+
+Throughout my career, I have been fortunate enough to work on cutting-edge projects that combine my passion for technology, AI, and human enhancement. I have contributed to various research papers and articles, and I am always looking for opportunities to share my knowledge and expertise with others.

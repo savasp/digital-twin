@@ -1,0 +1,3 @@
+How long have you been working in this position and what are your achievements?
+2967.588125
+ I worked in this position from May 2016 to January 2019. During this time, I oversaw Cortana's overall architecture, ensured technology alignment across the product, led the design and implementation of the next generation interaction management engine, and oversaw the protocol and implementation for Cortana-Alexa integration and Cortana in Skype. I also led initiatives to support user-centric experiences such as a user-centric notification service and single user profile across Microsoft's products. Additionally, I have experience with Large Scale Systems, Web Applications, and Agile Methodologies.

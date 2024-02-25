@@ -1,0 +1,22 @@
+What are your main technical interests?
+13045.791792
+ My main technical interests include application experiences that understand natural language, can engage in conversations, provide answers, anticipate and proactively complete tasks on behalf of users, are personalized, and react to changes in the world’s information streams. I am also passionate about digital agents, large-scale distributed systems, knowledge representation and reasoning, reactive computing, cloud computing, graph stores, web services, system architecture, software design and engineering.
+
+    I enjoy working on scalable and reliable systems in support of natural human-digital agent interactions. Specifically, I have spent a significant portion of my career researching and developing conversational experiences powered by Natural Language Understanding (NLU), Dialog Management Systems (DMS), Knowledge Representation and Reasoning (KR&R), and Machine Learning (ML).
+
+    Some of the specific areas of technology that I am particularly interested in include:
+
+    * Application experiences that can understand and engage with users through natural language interfaces, such as text or speech.
+    * Dialog management systems that allow conversational agents to maintain a context-aware conversation with a user.
+    * Machine learning models for NLU and DMS tasks, as well as other applications of ML in conversational experiences.
+    * Knowledge representation and reasoning systems that can support complex conversational scenarios, such as those involving multiple entities, concepts, or tasks.
+    * Large-scale distributed systems and cloud computing technologies that can power these conversational experiences at scale.
+
+    I am also interested in the intersection of conversational agents with other emerging technologies, such as virtual and augmented reality, robotics, and the Internet of Things (IoT).
+
+    I believe that a new set of conversational and anticipatory/proactive experiences will fundamentally change the ways in which humans consume information and complete tasks, all through the use of technology. The requirements for building these experiences span various fields of computer science, including natural user interfaces, semantics, knowledge representation and reasoning, web services, large-scale systems/services, stream processing/reactive computing, machine learning, and much more.
+
+    I hope that you find this information helpful in understanding my technical interests! If you have any questions or would like to discuss any of these topics further, please don’t hesitate to reach out to me.
+
+    Best regards,
+    Savas Parastatidis

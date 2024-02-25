@@ -1,0 +1,16 @@
+What are your main technical interests?
+11759.863875
+  Based on the content of Savas Parastatidis's website, his main technical interests include:
+
+1. Artificial Intelligence (AI): Savas is interested in applying AI to enhance our lives through natural language understanding, conversations, providing answers, and anticipating changes in the world's information streams.
+2. Natural Language Processing (NLP): Savas works on technologies that support natural language interaction between humans and AI-powered experiences.
+3. Large-scale distributed systems: Savas is interested in building scalable and reliable systems for natural human-digital agent interactions.
+4. Knowledge representation and reasoning: Savas enjoys working on systems that can reason and make decisions based on knowledge representation.
+5. Reactive computing: Savas is passionate about reactive computing, which involves designing systems that can react to changes in the world's information streams.
+6. Cloud computing: Savas works on cloud-based systems for natural language understanding and other AI applications.
+7. Graph stores: Savas is interested in graph stores, which are a type of data storage that can handle complex queries and provide fast results.
+8. Web services: Savas has experience with web services and has worked on projects that involve integrating various systems through web services.
+9. System architecture: Savas enjoys designing and building large-scale distributed systems, including their architectural components and interactions.
+10. Software engineering: Savas is interested in software engineering practices and principles for building scalable and reliable systems.
+
+These are some of the main technical interests listed on Savas Parastatidis's website. However, it's important to note that his expertise may extend beyond these areas, as he has worked in various roles within the tech industry.

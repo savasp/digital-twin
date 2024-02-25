@@ -1,0 +1,11 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+20860.809375
+    As a Senior Principal Engineer in Alexa AI and Cortana's architect & co-creator, I have applied my education and research experience in various ways. Here are some examples:
+
+1. Natural Language Processing (NLP): My PhD work focused on NLP, and I have continued to apply this knowledge in developing conversational systems like Cortana. I have also published several papers on NLP and its applications.
+2. Machine Learning (ML): I have utilized ML techniques to improve the performance of various AI models, such as voice recognition and language understanding systems. My research experience has helped me understand the intricacies of different ML algorithms and their use cases.
+3. Distributed Systems: During my time at Microsoft, I worked on designing and implementing large-scale distributed systems for Windows Azure. My education in computer science has provided a solid foundation in understanding the principles of distributed systems, which has been crucial in developing scalable and resilient systems.
+4. Software Engineering: My research experience has taught me the importance of software engineering principles, such as code reuse, modularity, and testing. I have applied these principles in my work on various AI projects, ensuring that the developed systems are reliable, maintainable, and adaptable to changing requirements.
+5. Human-Computer Interaction (HCI): As a conversational AI developer, I have focused on creating systems that are intuitive, natural, and enjoyable for users. My education in HCI has provided me with a deep understanding of human factors, user needs, and interaction design principles.
+
+In summary, my education and research experience have equipped me with the knowledge and skills to develop cutting-edge AI systems that are both technically robust and user-friendly. I have applied these capabilities in my work on various projects, such as Cortana and Alexa, and will continue to do so in the future.

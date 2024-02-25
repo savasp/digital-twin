@@ -1,0 +1,22 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+24725.011917
+ Based on the information provided, Savas Parastatidis has acquired or developed the following skills and qualifications in his role as a Research Engineer at Meta's Reality Lab Research:
+
+1. Artificial Intelligence (AI) technology development
+2. Natural interaction between humans and AI-powered experiences
+3. Research engineering
+4. Senior Principal Engineer experience in Alexa AI and Cortana
+5. Co-creator of Cortana
+6. Experience working with language/conversational systems for about 11 years
+7. Knowledge of ontology-based reasoning and conversational systems
+8. Familiarity with creating new programming languages
+9. Strong background in natural language/conversational systems
+10. Extensive experience working on Alexa AI and Cortana
+11. Proficient in Java and .NET technologies
+12. Experience building distributed systems based on the Web’s architecture
+13. Expertise in implementing systems that use the Web’s application protocol, HyperText Transfer Protocol (HTTP), and REST’s architectural tenets
+14. Strong understanding of the Web’s fundamental principles and their relevance in developing robust distributed applications
+15. Ability to explain complex technical concepts in simple terms
+16. Experience working with a global team in Toronto, Canada
+17. Demonstrated leadership skills as co-creator of Cortana and Senior Principal Engineer at Alexa AI
+18. Excellent communication skills, as evidenced by speaking engagements, publications, and social media presence.

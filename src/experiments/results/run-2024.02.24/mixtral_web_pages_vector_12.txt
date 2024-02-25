@@ -1,0 +1,3 @@
+What institution did you attend and when did you graduate or expect to graduate?
+16667.637417
+ I earned a Master of Science in Computer Science from the University of Manchester in 2005. Additionally, I received a Ph.D. in Computer Science from the same university in 2010. My focus during my Ph.D. was on "Semantic Web Services and Processes."

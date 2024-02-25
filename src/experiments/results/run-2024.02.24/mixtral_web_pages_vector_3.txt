@@ -1,0 +1,3 @@
+When did you work at microsoft?
+18391.456208
+ I worked for Microsoft from 2012 to 2016, where I helped start the Cortana project as a co-founder and the first engineer of the project. As the team's Architect, I had an overarching role that spanned disciplines such as user experiences, services/platform design, system architecture, technical coordination, software engineering, vision definition, and strategy.

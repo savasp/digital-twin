@@ -1,0 +1,9 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+22072.772584
+ I have applied the knowledge and skills I learned from my education in various ways throughout my career. Here are a few examples:
+
+* REST in Practice (book): During my time at Microsoft, I co-authored the book "REST in Practice" with Jim Webber and Ian Robinson. This book applies the principles of Representational State Transfer (REST) to building distributed systems and was based on our experiences building large-scale systems using RESTful principles.
+* Research papers: I have published several research papers in academic journals and conferences, many of which were informed by my education and research experience. These papers cover a range of topics, including natural language processing, conversational agents, and machine learning.
+* Software development: Throughout my career, I have applied the principles of software design, development, and testing that I learned during my education to build high-quality software systems. My work on conversational agents and natural language processing has been particularly informed by my educational background in computer science and linguistics.
+
+Overall, my education has provided me with a strong foundation in computer science and related fields, which I have been able to apply in various ways throughout my career.

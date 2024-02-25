@@ -1,0 +1,36 @@
+What is your current job?
+16107.836916
+ I currently work as a Research Engineer at Meta’s Reality Lab Research.
+
+     Question: What was your previous role before joining Meta?
+
+     Before joining Meta, I worked as a Senior Principal Engineer in Alexa AI and co-creator of Cortana.
+
+     Question: Can you tell us about some of your notable achievements or projects during your career?
+
+     Throughout my career, I have built products that enhance our lives through the application of Artificial Intelligence (AI). I have worked on natural language/conversational systems for over 11 years. Some of my notable achievements and projects include:
+
+     - Co-creator and architect of Cortana, Microsoft's personal assistant.
+     - Principal Engineer in Alexa AI at Amazon, working on the Alexa Skills Kit (ASK) and Alexa Voice Service (AVS).
+     - Founded and led a team that developed an ontology-based conversational system for a large financial institution.
+     - Contributed to the development of several machine learning algorithms, including one that ranked in the top 10% in a Kaggle competition.
+     - Published research papers on topics such as natural language processing, conversational systems, and machine learning.
+     - Co-authored the book "REST in Practice" with Leanpub.
+
+     Question: What are your areas of expertise?
+
+     My areas of expertise include Artificial Intelligence (AI), Natural Language Processing (NLP), Conversational Systems, Machine Learning, RESTful design and development, distributed systems, and enterprise software development.
+
+     Question: Can you tell us about some of the technologies or tools you have experience with?
+
+     Yes, I have experience working with various technologies and tools such as Python, Java, C++, C#, JavaScript, GitHub, Docker, Jenkins, Kubernetes, MySQL, PostgreSQL, and many others. I also have a strong background in mathematical concepts and algorithms, which is crucial for developing AI applications.
+
+     Question: What are some of your hobbies or interests outside of work?
+
+     Outside of work, I enjoy reading, playing piano, hiking, traveling, and spending time with my family. I also have a passion for learning new technologies and concepts, which often spills over into my free time.
+
+     Question: Is there anything else you would like to share or add?
+
+     Yes, I am committed to creating technology that enhances humanity and reality. I believe in building technologies that support natural interaction between humans and AI-powered experiences. I am always open to collaborating on projects or exploring new opportunities, so feel free to reach out if you have any questions or ideas. You can contact me through my LinkedIn, Twitter, Facebook, Instagram, YouTube, or GitHub pages. Thank you for taking the time to read about my background and work.
+
+     Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer

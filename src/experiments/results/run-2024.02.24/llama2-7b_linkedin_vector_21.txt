@@ -1,0 +1,3 @@
+What is your current or most recent job title and employer?
+2633.423583
+I am Savas Parastatidis, and my current job title is Partner Software Architect at Microsoft. I oversee the overall architecture of Cortana and ensure technology alignment across the product.

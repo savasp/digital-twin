@@ -1,0 +1,49 @@
+What were some of the challenges or difficulties you faced during your education and how did you overcome them?
+14344.319959
+  1. Distributed systems - savas parastatidis
+
+
+
+
+
+About the Book
+The Web has become an essential tool for communication, information dissemination, and collaboration. However, building distributed systems that can leverage its power is still a challenge for many developers. This book aims to provide a comprehensive guide on how to build distributed systems using the Web's architecture. It covers the fundamental principles of the Web, such as HTTP and REST, and shows how to implement systems that use these protocols and architectural tenets.
+
+The book is divided into three parts. The first part provides an overview of the Web's architecture and its underlying principles. The second part delves into the details of implementing distributed systems using HTTP and REST, with examples in Java and .NET. The third part covers advanced topics such as load balancing, security, and performance optimization.
+
+Throughout the book, the author provides practical examples and challenging exercises to help readers understand and apply the concepts. The book is suitable for developers who want to build distributed systems using the Web's architecture, regardless of their programming language or experience level.
+
+Part I: Introduction to Distributed Systems
+
+* Overview of distributed systems and their importance
+* Definition and characteristics of the Web
+* The Web's architectural principles: HTTP and REST
+* Comparison with other application platforms
+
+Part II: Implementing Distributed Systems
+
+* Implementation of HTTP and REST protocols
+* Java and .NET examples for implementing distributed systems
+* Challenges and limitations of using the Web's architecture
+* Security and performance optimization techniques
+
+Part III: Advanced Topics
+
+* Load balancing and scalability
+* Security and authentication
+* Performance optimization and debugging
+
+The book concludes with a discussion on the future of distributed systems and the role of the Web in shaping their development.
+
+By reading this book, developers will gain a comprehensive understanding of how to build distributed systems using the Web's architecture. They will learn how to implement systems that are scalable, secure, and performant, and how to leverage the power of the Web to communicate and collaborate with other developers and stakeholders.
+
+Get your copy today and start building distributed systems using the Web's architecture!
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+What is your current job?
+4982.153416
+Suras Parastatidis is an AI research engineer at Meta's Reality Lab Research. He has worked on language/conversational systems for 11 years and was a senior principal engineer in Alexa AI and Cortana's architect & co-creator. He has also published articles and research papers on various topics related to AI and distributed systems.

@@ -1,0 +1,16 @@
+What skills or competencies did you develop or improve during your education?
+9785.169917
+ During my education, I developed and improved various skills and competencies related to computer science, mathematics, and artificial intelligence. Some of the key skills include:
+
+1. Strong foundation in computer science fundamentals: algorithms, data structures, programming languages (C++, Java, Python), software engineering principles, database systems, operating systems, networks, and system design.
+2. Mathematical background: linear algebra, calculus, probability theory, statistics, optimization techniques, graph theory, and combinatorics.
+3. Deep understanding of artificial intelligence (AI) concepts: machine learning algorithms, deep learning, natural language processing, computer vision, robotics, and reinforcement learning.
+4. Experience with AI platforms: TensorFlow, PyTorch, OpenCV, and others.
+5. Proficiency in programming languages used for AI research: Python, C++, and Java.
+6. Strong analytical and problem-solving abilities.
+7. Familiarity with various AI applications: speech recognition, image classification, language translation, and more.
+8. Effective communication skills: presenting ideas clearly and effectively in both written and verbal formats.
+9. Time management and organization skills: balancing multiple projects and deadlines while maintaining a high level of performance.
+10. Teamwork and collaboration skills: working efficiently and productively with team members to achieve common goals.
+
+These are just some of the skills that I developed and improved during my education. Continuous learning is crucial in today's rapidly evolving tech landscape, so I strive to keep expanding my knowledge and abilities through online courses, workshops, conferences, and hands-on projects.

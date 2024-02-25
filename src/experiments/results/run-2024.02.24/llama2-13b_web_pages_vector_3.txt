@@ -1,0 +1,9 @@
+When did you work at microsoft?
+11291.291542
+    Based on the information provided in the text, Savas Parastatidis worked at Microsoft from 2012 to unknown. This is indicated in the text as follows:
+
+"I was part of the Alexa AI organization where I helped advance the state of the art in natural human-agent interactions. Previously, I worked for Microsoft as the overall Architect of Cortana, which I helped start as a co-founder and the first engineer of the project, back in 2012."
+
+Therefore, the answer to the question "When did you work at Microsoft?" is:
+
+From 2012 to unknown.

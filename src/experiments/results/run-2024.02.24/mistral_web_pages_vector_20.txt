@@ -1,0 +1,11 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+9793.466959
+ I have a Bachelor's degree in Computer Engineering from the National Technical University of Athens (NTUA), Greece, and a Master's degree and Ph.D. in Computer Science from the University of Maryland, College Park, USA. My education provided me with a solid foundation in computer science principles, algorithms, data structures, software engineering practices, and computer networks.
+
+In my current role as a Research Engineer at Meta's Reality Lab Research, I apply this knowledge daily to build products that enhance our lives through the application of Artificial Intelligence (AI) and Natural Language Processing (NLP). Specifically, I focus on creating technologies that support the natural interaction between humans and AI-powered experiences. This includes designing and implementing conversational systems, developing algorithms for speech recognition and natural language understanding, and integrating these components into larger systems.
+
+In my previous roles at Microsoft and Amazon, I worked as a Senior Principal Engineer and architect in Alexa and Cortana, respectively. Here, I applied my knowledge of distributed systems, RESTful web services, and service-oriented architecture to design and build scalable and reliable cloud services for voice assistants.
+
+Additionally, my research background has been helpful in understanding the latest advances in AI, NLP, and machine learning, which I apply to my work to improve the user experience of our products. I have also published several research papers and articles on topics such as web services, RESTful architectures, conversational systems, and natural language processing.
+
+Overall, my education has provided me with a strong foundation in computer science principles, which I continue to apply and build upon throughout my career.

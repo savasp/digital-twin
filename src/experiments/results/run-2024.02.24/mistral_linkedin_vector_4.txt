@@ -1,0 +1,3 @@
+What is your last name?
+2188.109917
+ Parastatidis. I used to work as a Partner Software Architect for Microsoft, overseeing Cortana's architecture and leading the design of their next generation interaction management engine. Recently, I worked as a Software Engineer at Meta - Reality Labs Research in Redmond, Washington. My areas of expertise include Large Scale Systems and Web Applications.

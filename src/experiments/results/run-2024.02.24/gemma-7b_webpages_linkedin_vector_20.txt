@@ -1,0 +1,5 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+11966.854625
+Sure, here is the answer to the question:
+
+I apply the knowledge and skills I learned from my education to my current and previous work experience by using them to build and design complex distributed systems, specifically natural language/conversational systems and large-scale distributed systems. I leverage my understanding of various computer science fields such as natural user interfaces, semantics, knowledge representation and reasoning, the Web, large-scale systems/services, stream processing/reactive computing, machine learning, and much more to build systems that enhance human capabilities and improve the overall user experience.

@@ -1,0 +1,9 @@
+What was your major or field of study and why did you choose it?
+8561.332208
+ I have a Master's degree in Computer Science (MSc.) and a Ph.D. in Computer Engineering. I chose these fields because I have always been fascinated by the potential of technology to enhance our lives, solve complex problems, and create new opportunities for innovation. In particular, I was drawn to the field of computer science and engineering because of its ability to merge art, science, and mathematics to build systems that can process information, communicate with other systems, and interact with humans in meaningful ways.
+
+During my studies, I focused on areas such as distributed systems, artificial intelligence, natural language processing, and human-computer interaction. These fields continue to be of great interest to me today, and I am always excited to explore new technologies and applications that push the boundaries of what is possible in these domains.
+
+Regarding my research, I have published several articles and papers on topics related to RESTful web services, distributed systems, and conversational AI. I believe that these areas are critical for building scalable, reliable, and adaptive systems that can meet the evolving needs of users in today's rapidly changing digital landscape.
+
+Overall, my academic background has given me a strong foundation in both the theoretical foundations and practical applications of computer science and engineering, and I am excited to continue building on this knowledge and experience throughout my career.

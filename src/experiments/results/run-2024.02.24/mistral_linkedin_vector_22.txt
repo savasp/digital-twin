@@ -1,0 +1,3 @@
+What are your main duties and responsibilities in this role?
+1599.663833
+ I oversaw Cortana's overall architecture at Microsoft, led the design and implementation of next-generation interaction management engines, managed protocols and implementations for various integrations, and spearheaded initiatives for user-centric experiences.

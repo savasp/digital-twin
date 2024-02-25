@@ -1,0 +1,3 @@
+What courses or projects did you complete that are relevant to the position you are applying for?
+16920.347875
+ I completed a Master's degree in Computer Science with a focus on Artificial Intelligence, and a PhD in Computer Science with a dissertation on natural language processing and conversational systems. Additionally, I have worked on several projects related to digital assistants, including co-founding and serving as the first engineer for Microsoft Cortana, and working as the overall Architect for Amazon's Alexa AI organization. I have also published research papers and a book on distributed systems and RESTful architecture.

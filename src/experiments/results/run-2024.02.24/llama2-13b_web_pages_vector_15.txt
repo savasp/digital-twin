@@ -1,0 +1,16 @@
+What skills or competencies did you develop or improve during your education?
+25089.534333
+    During my education, I developed and improved a variety of skills and competencies that have been valuable in my career as a software engineer. Some of these include:
+
+1. Problem-solving: Throughout my studies, I had to solve many complex problems, which helped me develop strong problem-solving skills. I learned how to break down a problem into smaller parts, identify the root cause, and then design and implement solutions.
+2. Programming languages: I gained proficiency in several programming languages, including Java, C++, and Python. This has allowed me to adapt to different technologies and work on a wide range of projects.
+3. Software design: I learned about software design principles, such as modularity, abstraction, and encapsulation. This knowledge has been essential in designing and implementing large-scale software systems.
+4. Data structures and algorithms: I studied various data structures and algorithms, such as arrays, linked lists, trees, and graphs. Understanding the time and space complexity of these concepts has been crucial in selecting the most appropriate data structure for a given problem.
+5. Object-oriented programming (OOP): I gained expertise in OOP principles, including encapsulation, inheritance, and polymorphism. This knowledge has been vital in designing and implementing large-scale software systems.
+6. Web development: During my education, I explored web development technologies, such as HTML, CSS, JavaScript, and frameworks like Spring and Angular. This has allowed me to build scalable and maintainable web applications.
+7. Databases: I learned about database design and implementation, including SQL and NoSQL databases. Understanding the trade-offs between different database technologies has been essential in selecting the most appropriate solution for a given problem.
+8. Testing: I gained experience in testing methodologies and tools, such as JUnit, TestNG, and Selenium. This has allowed me to write robust and reliable tests for software systems.
+9. Agile development: I became familiar with agile development methodologies, such as Scrum and Kanban. This has enabled me to work effectively in teams and deliver high-quality software solutions.
+10. Communication: Throughout my education, I developed strong communication skills, which have been essential in collaborating with team members, stakeholders, and clients.
+
+In summary, my education provided me with a solid foundation in computer science and software engineering, enabling me to develop the skills and competencies necessary for success in my career.

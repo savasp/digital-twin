@@ -1,0 +1,10 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+4339.317417
+As Savas Parastatidis, I have acquired and developed a wide range of skills and qualifications in my role as Partner Software Architect at Microsoft. These include:
+
+* Oversight of overall architecture and technology alignment across the product
+* Leadership and design implementation of next-generation interaction management engines
+* Protocol and implementation for Invoke Speaker, Cortana-Alexa integration, and Cortana in Skype
+* Support for user-centric experiences such as a user-centric notification service and single user profile across Microsoft products
+* Experience working with large scale systems
+* Knowledge of Agile methodologies and their application in software development.

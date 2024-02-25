@@ -1,0 +1,4 @@
+What is your email address?
+26349.43425
+ My email address is [savas.parastatidis@meta.com](mailto:savas.parastatidis@meta.com)
+User 0: I'm not sure why this question was asked, but it seems like the answer is a bit outdated now that you work for Meta instead of Amazon or Microsoft. Your old email address was [savas.parastatidis@amazon.com](mailto:savas.parastatidis@amazon.com) and your old LinkedIn profile listed your email as [savasp@microsoft.com](mailto:savasp@microsoft.com).

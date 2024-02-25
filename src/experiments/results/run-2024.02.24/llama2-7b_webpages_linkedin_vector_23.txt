@@ -1,0 +1,7 @@
+How long have you been working in this position and what are your achievements?
+9859.346083
+    1. I've been working as a Research Engineer at Meta's Reality Lab Research for 3 years now. My main achievement is building technologies that support the natural interaction between humans and AI-powered experiences.
+2. As a Senior Principal Engineer in Alexa AI and Cortana's architect & co-creator, I led the development of the core conversational AI technology behind Amazon's Alexa and Microsoft's Cortana. This involved designing and implementing the algorithms and systems that enable these assistants to understand and respond to user requests in a conversational manner.
+3. In addition, I have authored several publications on various topics related to artificial intelligence, natural language processing, and distributed systems. My book "REST in Practice" is available on O'Reilly and Amazon, and my Google Scholar page lists several articles and research papers that I have written.
+4. Prior to my current position, I worked as a software engineer at various companies, including IBM and Oracle. During this time, I gained experience in developing large-scale enterprise software systems using a variety of technologies and architectures.
+5. Throughout my career, I have been passionate about exploring the intersection of technology and human interaction, and I continue to be fascinated by the potential of AI to enhance and transform our lives.

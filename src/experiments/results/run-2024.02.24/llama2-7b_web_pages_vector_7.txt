@@ -1,0 +1,15 @@
+Where did you go to school and when?
+13306.349291
+```
+Hi there! I'm Savas Parastatidis, a research engineer at Meta AI's Reality Lab Research. I hold an MSc and PhD in Electrical and Electronics Engineering from Imperial College London. Prior to that, I studied Computer Science at the University of Patras in Greece, where I graduated with a BSc (Hons) in 2006. My research interests lie at the intersection of Artificial Intelligence, machine learning, and human-computer interaction.
+
+During my time at Imperial College London, I was involved in various projects that focused on developing intelligent systems for improving human well-being. For instance, I worked on a project that aimed to create a personalized recommendations system for music and movies based on users' preferences and emotional states. I also worked on a project that developed a conversational AI system for mental health support, which was designed to provide emotional support and mental health resources to users through natural language processing.
+
+In addition to my academic pursuits, I have also worked as a senior principal engineer at Amazon, where I led the development of several high-profile projects, including Alexa's voice assistant and Cortana's conversational AI. My experience in these roles has given me a deep understanding of how AI can be applied to enhance human life and improve society.
+
+My blog is where I share my thoughts and insights on various topics related to AI, including the latest developments in the field, the ethical considerations of AI, and the impact of AI on society. I also use my blog to share my personal projects and research, such as my work on ontology-based reasoning with ChatGPT's help and my break from work.
+
+Overall, my background and experience have equipped me with a strong foundation in both theoretical and practical aspects of AI, which I believe is essential for creating truly innovative and impactful solutions in this field.
+
+Feel free to reach out to me through any of the channels listed on my website if you have any questions or would like to learn more about my work!
+```

@@ -1,0 +1,19 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+15354.264875
+ In my role as a Research Engineer at Meta's Reality Lab Research, I have gained experience in building products that enhance our lives through the application of Artificial Intelligence (AI). I have also gained expertise in creating technologies that support natural interaction between humans and AI-powered experiences. Prior to this role, I was a Senior Principal Engineer in Alexa AI and Cortana's architect & co-creator, where I developed skills in natural language processing, conversational systems, and distributed computing.
+
+I have a strong background in computer science, with a Master's degree and a Ph.D. In my academic research, I focused on artificial intelligence, machine learning, and data mining. I am also an experienced software engineer, having worked on various projects throughout my career. Additionally, I have a good understanding of mathematics, especially probability theory, statistics, and linear algebra.
+
+I possess excellent problem-solving skills, creativity, and the ability to work collaboratively with a team. I am able to learn new technologies quickly, adapt to new environments, and communicate effectively with both technical and non-technical stakeholders.
+
+I am passionate about using technology to enhance humanity and improve reality. I believe that continuous learning is essential for personal growth and professional development, so I regularly read research papers and attend conferences to stay up-to-date with the latest advancements in my field.
+
+My blog (<https://www.savasparastatidis.com/>) includes a collection of articles on various topics related to artificial intelligence, machine learning, natural language processing, conversational systems, and distributed computing. I am also active on social media platforms such as LinkedIn, Twitter, Facebook, Instagram, YouTube, and GitHub, where I share my insights and engage with the tech community.
+
+I have published a book, "REST in Practice," which provides an overview of the Web's underlying architectural principles and their relevance to building distributed applications using Java and .NET. Additionally, I have several research papers and articles that can be found on my Google Scholar page (<https://scholar.google.com/citations?user=9xvCXPkAAAAJ&hl=en>).
+
+I am committed to fostering a culture of innovation, continuous improvement, and diversity in the tech industry. I believe that everyone should have an equal opportunity to succeed, regardless of their race, gender, ethnicity, religion, sexual orientation, or any other characteristic.
+
+I am fluent in English and have working knowledge of Greek. I am based in Cambridge, MA, and enjoy traveling, reading, studying math and machine learning, and hiking in my spare time.
+
+Contact me through the contact form on my website (<https://www.savasparastatidis.com/contact/>) if you have any questions or would like to discuss potential collaboration opportunities.

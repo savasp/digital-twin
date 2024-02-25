@@ -1,0 +1,9 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+8482.663834
+ I have a strong educational background in Computer Science, with a Master's degree and a PhD. My education provided me with a solid foundation in various aspects of computer science, including algorithms, data structures, programming languages, operating systems, network protocols, and database systems.
+
+In my current role as a Research Engineer at Meta's Reality Lab Research, I apply this knowledge by designing, developing, and experimenting with advanced artificial intelligence (AI) technologies that enhance human experiences in the virtual and augmented reality domains. Specifically, I focus on building AI models for natural language understanding, conversational systems, and computer vision.
+
+Previously, as a Senior Principal Engineer in Alexa AI and Cortana's architect & co-creator, I applied my education to design and develop conversational systems that use natural language processing (NLP) and machine learning algorithms to understand human speech and respond appropriately. These conversational systems were integrated into popular consumer products like Amazon Alexa and Microsoft Cortana.
+
+In summary, my educational background in Computer Science has provided me with the fundamental skills needed to excel in roles requiring advanced knowledge of AI, NLP, programming languages, and distributed systems. I continue to apply these skills in my current role, where I focus on developing cutting-edge technologies for enhancing human experiences through virtual and augmented reality.

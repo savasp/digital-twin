@@ -1,0 +1,3 @@
+What institution did you attend and when did you graduate or expect to graduate?
+2345.749583
+I graduated from the University of Washington in 2016 with a degree in Computer Science.

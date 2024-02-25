@@ -1,0 +1,31 @@
+What do you currently do at Meta?
+15345.678459
+ I currently work as a Research Engineer at Meta's Reality Lab Research.
+
+Question: Can you briefly describe your role and responsibilities in your current position?
+
+As a Research Engineer at Meta's Reality Lab Research, I focus on building products that enhance our lives through the application of Artificial Intelligence (AI). Specifically, I build technologies that support natural interaction between humans and AI-powered experiences. My work involves researching and prototyping new concepts, collaborating with cross-functional teams, and developing and experimenting with novel algorithms, models, and techniques to push the state-of-the-art in AI and machine learning.
+
+Question: What was your background before joining Meta?
+
+Before joining Meta, I worked as a Senior Principal Engineer at Amazon where I architected and co-created Cortana, Microsoft's digital assistant. Prior to that, I spent over six years working on natural language understanding and conversational systems at Microsoft Research and Microsoft Bing. Additionally, I hold an MSc and a PhD in Computer Science from the University of Surrey.
+
+Question: What is your area of expertise?
+
+My area of expertise lies in Artificial Intelligence (AI) and machine learning, particularly as it relates to natural language understanding and conversational systems.
+
+Question: How do you see AI and machine learning evolving in the future?
+
+I believe that AI and machine learning will increasingly become ubiquitous and seamlessly integrated into our daily lives, enabling more intelligent and efficient ways of interacting with technology and each other. We'll continue to see advancements in areas such as computer vision, natural language processing, and robotic automation. Furthermore, AI and machine learning will play a significant role in addressing complex societal challenges like climate change and healthcare, ultimately enhancing human capabilities and improving our overall quality of life.
+
+Question: What are some of your hobbies or interests outside of work?
+
+Outside of work, I enjoy reading about mathematics and physics, playing the piano, and hiking in nature. I also like to experiment with various DIY projects, from electronics to woodworking.
+
+Question: Is there anything else you would like to share or add?
+
+I am passionate about using technology to enhance humanity and make a positive impact on people's lives. I believe that AI and machine learning can play an essential role in creating meaningful and valuable experiences for users. Additionally, I am always excited about exploring new ideas and collaborating with talented individuals from diverse backgrounds and disciplines.
+
+Contact: savasparastatidis@gmail.com
+
+Note: This content is provided as-is and is not affiliated or endorsed by Meta Platforms Inc. or any of its subsidiaries, including Meta Reality Lab Research. Any opinions expressed here are my own and do not reflect those of my employer.

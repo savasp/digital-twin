@@ -1,0 +1,5 @@
+How long have you been working in this position and what are your achievements?
+6273.658416
+    Sure, here's my response based on the provided context:
+
+I have been working as a Partner Software Architect at Microsoft for over 2 years, starting from May 2016. My main achievements include leading the design and implementation of the next generation interaction management engine, overseeing the protocol and implementation for the Invoke Speaker, Cortana-Alexa integration, and Cortana in Skype, as well as initiatives to support user-centric experiences such as a user-centric notification service and single user profile across Microsoft's products.

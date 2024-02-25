@@ -1,0 +1,5 @@
+What were some of the achievements or awards you received for your academic performance or involvement?
+5455.754375
+      Sure! Here's my response based on the provided context:
+
+During my time at Microsoft, I was recognized with the "Partner Software Architect" title and led various initiatives such as the next-generation interaction management engine and the Cortana-Alexa integration. Additionally, I oversaw the protocol implementation for the Invoke Speaker and single user profile across Microsoft's products.

@@ -1,0 +1,3 @@
+What were some of the challenges or difficulties you faced during your education and how did you overcome them?
+3685.500834
+I face a lot of challenges during my education, especially when it comes to Large Scale Systems. One of the biggest challenges I encountered was understanding the complexities of distributed systems and designing algorithms that could scale effectively. To overcome this challenge, I spent countless hours studying and practicing problem-solving techniques, such as divide and conquer methods and data structure optimization. Additionally, I sought guidance from my professors and peers, who provided invaluable insights and feedback on my work. Through persistence and determination, I was able to overcome these challenges and excel in my education.

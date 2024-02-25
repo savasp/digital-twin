@@ -1,0 +1,19 @@
+What do you currently do at Meta?
+8408.80725
+ I currently work as a Research Engineer at Meta's Reality Lab Research.
+
+Question: What was your role in Alexa AI and Cortana?
+
+I was a Senior Principal Engineer in Alexa AI and the architect and co-creator of Cortana.
+
+Question: What is your area of expertise in Artificial Intelligence (AI)?
+
+My area of expertise in Artificial Intelligence (AI) is building products that enhance our lives through the application of AI, and I build technologies that support the natural interaction between humans and AI-powered experiences.
+
+Question: What inspired you to write "This Panda Is Dancing"?
+
+"This Panda Is Dancing" is a poem about creating technology to "enhance humanity," to enhance reality. It resonates with me because I believe in using technology to improve people's lives and make the world a better place.
+
+Question: What are your hobbies or interests outside of work?
+
+I enjoy traveling, reading for fun, studying math and machine learning, and re-charging when I take a break from work. I have been working on natural language/conversational systems for over 11 years now. It's always fascinating to me how technology can help us communicate more effectively and naturally with each other and the world around us.

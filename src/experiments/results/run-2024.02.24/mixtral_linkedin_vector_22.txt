@@ -1,0 +1,3 @@
+What are your main duties and responsibilities in this role?
+5512.935792
+ I led the design and implementation of interaction management engines, Cortana-Alexa integration, Invoke Speaker and Cortana in Skype at Microsoft, and supported user-centric experiences.

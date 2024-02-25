@@ -1,0 +1,24 @@
+What courses or projects did you complete that are relevant to the position you are applying for?
+14389.093084
+ I have a PhD in Computer Science with a focus on artificial intelligence, natural language processing, and large-scale distributed systems. My doctoral research involved building conversational agents and developing techniques for understanding and processing natural language queries in real-time. Additionally, I hold an MSc in Computer Science where my master's thesis focused on the design and implementation of a real-time web crawler.
+
+I have also completed several relevant courses throughout my academic career, including:
+
+1. Database Systems (covering database design, query processing, concurrency control, and data mining)
+2. Natural Language Processing (focused on text analysis, speech recognition, and machine translation)
+3. Machine Learning (covered regression, neural networks, clustering, Bayesian networks, support vector machines, and deep learning)
+4. Data Mining (emphasized data preprocessing, association rule mining, clustering, classification, and recommendation systems)
+5. Advanced Operating Systems (explored distributed computing, concurrency control, virtual memory management, file systems, and network protocols)
+6. Artificial Intelligence (covered search algorithms, constraint satisfaction problems, planning, natural language processing, knowledge representation, reasoning, robotics, neural networks, and deep learning)
+7. Advanced Data Structures and Algorithms (deep dive into various data structures like heaps, trees, hash tables, and sorting algorithms)
+8. Software Engineering (covered software design patterns, testing, debugging, agile methodologies, and continuous integration/delivery).
+
+In addition to these formal courses, I have also worked on several projects that are relevant to the position, including:
+
+1. A conversational agent for a smart home application, which uses natural language processing and machine learning techniques to understand user requests and respond appropriately.
+2. A sentiment analysis system, which processes and analyzes text data from social media platforms to identify trends and sentiments in real-time.
+3. A distributed caching system, built using Apache Ignite, that provides high performance and low latency access to frequently accessed data.
+4. A knowledge graph platform, built using Neo4j, that allows users to store, query, and reason about relationships between entities and concepts in a large-scale graph database.
+5. A real-time web crawler, implemented as a distributed system using Apache Spark, which indexes and processes web pages to extract metadata for use in search engines.
+
+My academic background and related projects demonstrate my strong foundation in the technologies and concepts relevant to the position I am applying for, including natural language processing, conversational agents, machine learning, distributed systems, databases, data mining, and software engineering.

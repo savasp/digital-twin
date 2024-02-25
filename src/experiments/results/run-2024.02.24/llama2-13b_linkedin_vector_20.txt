@@ -1,0 +1,5 @@
+How do you apply the knowledge or skills you learned from your education to your current or previous work experience?
+5798.808334
+     Sure! Here is the answer to the question based on the provided context:
+
+In my current role as a Partner Software Architect at Microsoft, I applied the knowledge and skills I gained from my education in large-scale systems, agile methodologies, and web applications to ensure technology alignment across the product. Specifically, I leveraged my understanding of user-centric design principles to lead initiatives supporting user-centric experiences such as a unified notification service and single user profile across Microsoft's products.

@@ -1,0 +1,16 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+10213.742541
+ In my role as a Research Engineer at Meta's Reality Lab Research, I have been working on building products that enhance our lives through the application of Artificial Intelligence (AI). Specifically, I focus on technologies that support natural interaction between humans and AI-powered experiences.
+
+Some skills and qualifications that I have acquired or developed in this role include:
+
+1. Strong background in computer science with a focus on distributed systems, artificial intelligence, and natural language processing.
+2. Expertise in designing and developing scalable and high-performance software systems using various programming languages (e.g., C++, Java, Python) and tools (e.g., Unreal Engine).
+3. Proficiency in machine learning algorithms and deep learning frameworks (e.g., TensorFlow, PyTorch).
+4. Strong understanding of computer vision principles and techniques for applying them to real-world applications.
+5. Experience in collaborating with cross-functional teams, including product managers, designers, engineers, and researchers, to define and implement new features and capabilities.
+6. Excellent communication skills to effectively articulate complex technical concepts to both technical and non-technical stakeholders.
+7. Strong problem-solving abilities and ability to work independently or as part of a team to identify and solve challenging technical issues.
+8. Familiarity with agile development methodologies, such as Scrum, and experience working in an iterative software development environment.
+9. Knowledge of cloud computing platforms, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform, and experience deploying and managing applications in the cloud.
+10. Strong understanding of security principles and ability to design and implement secure software systems.

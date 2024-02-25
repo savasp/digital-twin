@@ -1,0 +1,3 @@
+What courses or projects did you complete that are relevant to the position you are applying for?
+2040.266292
+ I led the design and implementation of large-scale interaction management engines using Agile methodologies at Microsoft. I also oversaw protocol and implementation for various integrations, including Cortana-Alexa and Cortana in Skype. Additionally, I initiated user-centric experiences such as a user-centric notification service and single user profile across Microsoft's products.

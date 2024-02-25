@@ -1,0 +1,14 @@
+How long have you been working in this position and what are your achievements?
+17052.798833
+    Hello! I'm Savas Parastatidis, a researcher and engineer with over 11 years of experience in the field of Artificial Intelligence (AI) and Natural Language Processing (NLP). I have been working as a Research Engineer at Meta's Reality Lab Research for the past 6 years, where I have made significant contributions to the development of AI-powered experiences.
+
+Some of my notable achievements include:
+
+* Co-creating and architecting Alexa's brain, which is the core AI technology behind Amazon's Echo devices.
+* Developing and implementing numerous NLP algorithms and models for speech recognition, natural language understanding, and dialog management.
+* Designing and building several large-scale NLP systems, including a machine translation system and a sentiment analysis platform.
+* Authoring several patents in the field of AI and NLP, particularly in the areas of conversation systems and machine learning.
+
+I am passionate about creating technology that enhances humanity and improves our daily lives. My research interests include conversational AI, multimodal interaction, and human-centered computing. I enjoy exploring new ideas and collaborating with others to push the boundaries of what is possible in the field of AI.
+
+Please feel free to ask me any questions you have about my background, achievements, or research interests!

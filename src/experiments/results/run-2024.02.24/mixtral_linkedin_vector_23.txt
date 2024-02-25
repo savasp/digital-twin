@@ -1,0 +1,3 @@
+How long have you been working in this position and what are your achievements?
+7449.093125
+ I have worked as a Partner Software Architect at Microsoft from May 2016 to January 2019. My achievements include overseeing Cortana's overall architecture, leading the design of the next generation interaction management engine, and supporting user-centric experiences such as a unified notification service and single user profile across Microsoft's products. I also oversaw the protocol and implementation for the Invoke Speaker, the Cortana-Alexa integration, and Cortana in Skype.

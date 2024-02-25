@@ -1,0 +1,3 @@
+What courses or projects did you complete that are relevant to the position you are applying for?
+3962.008375
+I completed several courses and projects during my time at Microsoft that are relevant to the position I am applying for. As a Partner Software Architect, I oversaw the design and implementation of Cortana's overall architecture and ensured technology alignment across the product. I led initiatives to support user-centric experiences such as a user-centric (vs device-centric) notification service and single user profile across Microsoft's products. Additionally, I worked on the integration of Cortana with Alexa and Skype, as well as the implementation of the next generation interaction management engine.

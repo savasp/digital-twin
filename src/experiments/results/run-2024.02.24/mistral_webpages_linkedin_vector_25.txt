@@ -1,0 +1,8 @@
+Why did you choose this career path and what are your short-term and long-term goals?
+8424.485708
+ I chose a career path in technology, specifically Artificial Intelligence (AI) research and development, because I have always been fascinated by the potential of AI to enhance our lives and make complex tasks easier for people. Short-term goals include continuing to build innovative AI products at Meta's Reality Lab Research, staying up-to-date with the latest advances in AI technology, and collaborating with other experts in the field. Long-term goals include making significant contributions to the development of advanced AI systems, expanding the scope of what AI can accomplish, and using these technologies to create positive impacts on society as a whole.
+
+    I was a Senior Principal Engineer at Microsoft's Alexa AI and Cortana teams, where I played key roles in architecting and co-creating their conversational systems. Prior to that, I built natural language processing (NLP) and machine learning (ML) systems for various applications. I am passionate about using technology to enhance humanity and make complex tasks easier for people.
+    My hobbies include reading, traveling, studying math and machine learning, and recharging after a long career in technology. I also enjoy writing poetry and creating short films that explore the intersection of technology and human emotion.
+
+    Please note: All opinions expressed on this website are my own and do not reflect those of my employer.

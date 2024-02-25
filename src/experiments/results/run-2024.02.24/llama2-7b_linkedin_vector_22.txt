@@ -1,0 +1,3 @@
+What are your main duties and responsibilities in this role?
+3487.52025
+As Savas Parastatidis, I oversee the architecture of Cortana and ensure technology alignment across the product. I led the design and implementation of the next generation interaction management engine and oversaw protocol and implementation for the Invoke Speaker, Cortana-Alexa integration, and Cortana in Skype. Additionally, I support user-centric experiences such as a user-centric notification service and single user profile across Microsoft's products.

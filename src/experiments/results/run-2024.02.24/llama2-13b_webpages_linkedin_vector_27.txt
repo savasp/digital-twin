@@ -1,0 +1,12 @@
+How do you collaborate and communicate with your colleagues, managers, and clients?
+21147.761958
+    Based on the information provided, it appears that Savas Parastatidis is a software engineer and researcher who specializes in natural language processing and conversational AI. To answer the question of how he collaborates and communicates with his colleagues, managers, and clients, here are some possible ways:
+
+1. Email: Savas may use email to communicate with his colleagues, managers, and clients, especially for formal or long-form communication. He may have a dedicated email address for work-related communication.
+2. Communication tools: Depending on the organization he works for, Savas may use internal communication tools such as Slack, Microsoft Teams, or Google Workspace to collaborate with his colleagues and communicate with his clients. These tools allow for real-time messaging, file sharing, and video conferencing.
+3. Project management tools: For managing projects and tasks, Savas may use project management tools like Asana, Trello, or Jira. These tools allow him to track progress, set deadlines, and assign tasks to team members.
+4. Video conferencing: With remote work becoming more common, video conferencing tools like Zoom, Google Meet, or Skype may be essential for Savas to communicate with his colleagues and clients in real-time.
+5. Collaborative document editing: For collaborating on documents, Savas may use tools like Google Docs, Microsoft Word, or Notion. These tools allow multiple people to work on the same document simultaneously, and track changes and feedback.
+6. Code repositories: As a software engineer, Savas may use code repositories like GitHub or Bitbucket to store and manage his codebase. This allows him to collaborate with other developers and track changes to the code over time.
+
+In summary, Savas likely uses a combination of communication tools, project management tools, and code repositories to collaborate and communicate with his colleagues, managers, and clients.

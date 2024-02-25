@@ -1,0 +1,51 @@
+What is your current or most recent job title and employer?
+15109.532791
+Savan Parastatidis, MSc., Ph.D.
+Research Engineer at Meta's Reality Lab Research
+Former Senior Principal Engineer in Alexa AI and Cortana's Architect & Co-Creator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+publications - savas parastatidis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REST in Practice (book)
+Where to buy: O’Reilly, Amazon
+Book website.
+The Web has radically transformed the ways we produce and share information. Its international ecosystem of applications and services allows us to search, aggregate, combine, transform, replicate, cache and archive the information that underpins today’s digital society. Successful despite its chaotic growth, it is the largest, least formal integration project ever attempted. And all this despite its being barely into its teenage years.
+Today’s Web is in large part the human Web: human users are the direct consumers of the services offered by the majority of today’s Web applications. Given its success in managing our digital needs at such phenomenal scale, we’re now starting to ask how we might apply the Web’s underlying architectural principles to building other kinds of distributed systems, particularly the kinds of distributed system typically implemented by “enterprise application” developers.
+Why is the Web such a successful application platform? What are its guiding principles, and how ought we apply them when building distributed systems? What technologies can and should we use? Why does the Web model feel familiar, but still different from previous platforms? Conversely, is the Web always the solution to the challenges we face as enterprise application developers?
+These are the questions we attempt to answer in this book. Our goal throughout is to describe how to build distributed systems based on the Web’s architecture. We show how to implement systems that use the Web’s application protocol, HyperText Transfer Protocol (HTTP), and which leverage REST’s architectural tenets. We explain the Web’s fundamental principles in simple terms, and discuss their relevance in developing robust distributed applications. And we illustrate all this with challenging examples drawn from representative enterprise scenarios and solutions implemented using Java and .NET.
+
+
+Articles and research papers
+Please checkout my Google Scholar page.
+
+
+
+
+Copyright – Savas ParastatidisDisclaimer: All opinions expressed on this website are my own and do not reflect those of my employer

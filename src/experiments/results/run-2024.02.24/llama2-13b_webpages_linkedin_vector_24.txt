@@ -1,0 +1,13 @@
+What are the skills and qualifications that you have acquired or developed in this role?
+20590.557
+    Based on the provided content, I can assist with answering questions related to Savas Parastatidis's background, skills, and publications. However, I cannot provide direct answers to interview questions as it is important to maintain the context and privacy of the individual being questioned.
+
+To answer your question, Savas Parastatidis has acquired or developed several skills and qualifications based on his role and experience, including:
+
+1. Expertise in Artificial Intelligence (AI): As a Research Engineer at Meta's Reality Lab Research, Savas has gained extensive knowledge and experience in developing and applying AI technologies to enhance human interactions.
+2. Proficiency in programming languages: Savas is proficient in multiple programming languages, including Java and .NET, which he has used in developing various applications and systems.
+3. Understanding of RESTful architectures: Savas has a deep understanding of REST (Representational State Transfer) and its application in building distributed systems, as evident from his book "REST in Practice."
+4. Knowledge of ontology-based reasoning: As a researcher and developer, Savas is well-versed in ontology-based reasoning and has experience in applying it to various applications.
+5. Ability to work with complex systems: With experience in developing conversational systems and natural language processing, Savas has the ability to work with complex systems and technologies.
+6. Strong publication record: Savas has a strong record of publications on various topics related to AI, RESTful architectures, and ontology-based reasoning, which demonstrates his expertise and knowledge in these areas.
+7. Experience in leading projects: As a Senior Principal Engineer at Alexa AI, Savas has led several projects and initiatives, demonstrating his ability to manage and direct teams and projects.
