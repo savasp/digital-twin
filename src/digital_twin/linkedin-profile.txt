@@ -1,0 +1,53 @@
+Savas Parastatidis attended the Technological Educational Institute in Thessaloniki, Greece, where he studied Information Technology from October 1991 to September 1995 and graduated with a Bachelor of Science degree. During his time at the Technological Educational Institute, Savas Parastatidis achieved impressive academic results, finishing second in his class, and his final-year project on DNS and sendmail was awarded with distinction. After completing his undergraduate studies, Savas Parastatidis moved to Newcastle upon Tyne, United Kingdom, to pursue a Master of Science degree at the School of Computing Science, Newcastle University, which he started in October 1995 and completed in August 1996. Savas Parastatidis excelled in his master's program, achieving the highest marks in his year, and his dissertation work focused on run-time support for mobile agents. Following his master's degree, Savas Parastatidis remained at Newcastle University to pursue a Doctor of Philosophy degree, also at the School of Computing Science, which he started in September 1996 and completed in September 2000. During his PhD studies, Savas Parastatidis worked on his thesis, titled "Run-time Support for Parallel Object-Oriented Computing," which involved the implementation of an all-in software object-based DSM system, novel object caching techniques for distributed systems, and a new lazy task creation technique, covering design and implementation issues in areas such as load-balancing, high-speed communications, and clustering.
+
+Savas Parastatidis worked as a Software Engineer at Meta from February 2023 to March 2024, where he provided software architecture and engineering leadership, and was involved in the overall coordination, system design, and execution for an LLM-based prototype system.
+At Meta, Savas Parastatidis also worked on Reality Labs/XR Tech, providing technical leadership, and working on Contextual AI and Cloud Computing platform for VR/MR/AR from March 2024, a position he still holds.
+Prior to this, Savas Parastatidis was at Magnit as a Software Engineer at Meta - Reality Labs Research from November 2022 to February 2023.
+Savas Parastatidis worked at Amazon as a Senior Principal Engineer, Alexa Artificial Intelligence from March 2019 to June 2022, where he provided technical leadership across Alexa and initiated and delivered Alexa’s multi-skill experiences.
+He designed and delivered the Alexa Conversations Description Language and related developer-facing tooling, and also designed and championed Alexa Schema as the shared ontology across all of Alexa.
+At Amazon, Savas Parastatidis led Alexa’s community of Principal and Distinguished engineers and scientists, and initiated a re-architecture of Alexa to support natural, multi-modal interactions.
+Before Amazon, Savas Parastatidis was a Partner Software Architect at Microsoft from May 2016 to January 2019, where he oversaw Cortana's overall architecture and ensured technology alignment across the product.
+He led the design and implementation of the next generation interaction management engine, and also oversaw the protocol and implementation for the Invoke Speaker, the Cortana-Alexa integration, and Cortana in Skype.
+Savas Parastatidis worked at Facebook as a Software Engineer from January 2015 to May 2016, where he designed the language understanding platform that processed every post and comment on Facebook, and also worked on the architecture and design of various research projects.
+At Microsoft, Savas Parastatidis was a Principal Software Architect from 2006 to 2008, where he worked on technologies, services, and tools to help scientists and researchers be more productive and efficient.
+He architected, prototyped, and led a team that implemented Zentity, a graph store to manage an organization’s research output, and was the technical lead for External Research’s “Cloud Computing for Science” vision, implementation, and deployment.
+Savas Parastatidis was also a Program Manager at Microsoft from September 2005 to 2006, where he was the editor of two key Web Services specifications on behalf of Microsoft, and did design and prototyping work on “Oslo”, a declarative, data-oriented programming language.
+Before joining Microsoft, Savas Parastatidis worked as the Chief Software Architect and Principal Research Associate at the University of Newcastle from January 2003 to September 2005, where he conducted research in service-oriented, distributed, high-performance computing with an emphasis on Internet-scale architectures.
+Savas Parastatidis fulfilled his military service duty as a Private in the Greek Army Forces from December 2001 to January 2003, and was awarded a distinction of honor.
+He worked at Hewlett-Packard as a Senior Software Engineer from January 2001 to October 2001, where he was a co-investigator in an R&D team in Transactions for Web Services, and had a principal role in the research, design, and implementation of the XML Transaction Service.
+Savas Parastatidis was a Research Associate at the University of Newcastle from 2000 to 2001, where he conducted post-doctoral research in parallel, high-performance computing using clusters of workstations and object-oriented, visual programming languages for parallel computing.
+At Microsoft, Savas Parastatidis also worked as a Principal Software Architect from 2008 to November 2011, and as a Principal Software Engineer from 2008 to November 2011, where he worked on various projects including the prototyping of Zentity and the design and development of plugins for Office.
+During his time at Microsoft, Savas Parastatidis was awarded several distinctions, including three “Gold Stars” for his impact and contributions to the company.
+
+Savas Parastatidis was born on April 15, 1973.
+Savas Parastatidis is a seasoned technical leader with over 20 years of experience in product delivery and advanced technology research & development.
+He works towards the application of Artificial Intelligence to enhance human capabilities by understanding egocentric physical/digital contexts and by enabling seamless, natural user experiences.
+Savas Parastatidis has technical expertise in Applied AI, distributed systems, cloud computing, large scale systems, digital personal assistant experiences, natural interaction systems, augmented/mixed reality systems, and semantics.
+Currently, Savas Parastatidis is a Software Engineer at Meta's Reality Labs.
+He is based in the Greater Seattle Area, with a zip code of 98033.
+Savas Parastatidis can be found online at https://savas.me, which is one of his websites.
+As a professional in the software development industry, Savas Parastatidis brings his expertise to the table, focusing on innovative technologies such as Artificial Intelligence and augmented/mixed reality systems.
+
+Savas Parastatidis worked on the project Cortana, a Personal Digital Assistant, from January 2012 to January 2019.
+During his time on Cortana, Savas Parastatidis was involved in developing a digital assistant that could perform various tasks for users.
+After completing his work on Cortana, Savas Parastatidis moved on to another project, Alexa, which he started working on in March 2019.
+Savas Parastatidis spent approximately three years working on Alexa, with his involvement ending in June 2022.
+More information about Alexa can be found at https://www.amazon.com/b?node=21576558011, a website that Savas Parastatidis likely contributed to during his time on the project.
+Throughout his career, Savas Parastatidis has demonstrated his expertise in developing digital assistants, as evident from his work on Cortana and Alexa.
+Savas Parastatidis's experience working on Cortana from 2012 to 2019 provided him with a strong foundation to take on the challenges of working on Alexa from 2019 to 2022.
+
+Savas Parastatidis has expertise in Computer Science, which is a fundamental skill that he utilizes in his work.
+He is skilled in Scalability, which enables him to design and implement efficient systems.
+Savas Parastatidis has experience with Distributed Systems, a key area of focus in his professional endeavors.
+His skills in Programming are essential for developing software applications, and he is proficient in languages such as Java and C#.
+Savas Parastatidis is knowledgeable about Cloud Computing, which allows him to design and deploy scalable cloud-based systems.
+He has expertise in Architecture, specifically in the areas of SOA, Web Services, and Software Engineering.
+Savas Parastatidis is well-versed in Software Development, with a strong foundation in Algorithms and REST principles.
+His understanding of Software Design enables him to create efficient and effective software applications.
+In addition to his technical skills, Savas Parastatidis has experience with Enterprise Architecture, Semantics, and the Semantic Web.
+He is familiar with Ontologies and Linked Data, which are crucial components of the Semantic Web.
+Savas Parastatidis has worked on Large Scale Systems and High Performance Computing, demonstrating his ability to handle complex systems.
+His expertise in Agile Methodologies allows him to adapt to changing project requirements.
+As a technical leader, Savas Parastatidis provides guidance on System Architecture and Technical Leadership.
+He is skilled in designing and implementing various Architectures, including those for Web Applications.
+Savas Parastatidis's proficiency in these areas makes him a versatile professional with a wide range of skills.

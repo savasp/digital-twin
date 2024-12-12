@@ -2,7 +2,7 @@ import csv
 import glob
 import json
 
-for csvfile in glob.glob("savas/*.csv"):
+for csvfile in glob.glob("linkedin-profile/*.csv"):
     jsondoc = []
     with open(csvfile, 'r') as read_file:
         header = read_file.readline().strip().split(',')

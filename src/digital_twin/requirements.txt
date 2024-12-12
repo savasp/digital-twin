@@ -1,6 +1,8 @@
-langchain==0.1.9
-langchain-core==0.1.26
-langchain-community==0.0.24
-jq==1.6.0
-bs4==0.0.2
-faiss-cpu==1.7.4
+langchain-ollama==0.2.1
+langchain==0.3.10
+langchain-core==0.3.22
+langchain-community==0.3.10
+langgraph==0.2.56
+beautifulsoup4==4.12.3
+langchain-chroma==0.1.4
+langchain-qdrant==0.2.0

@@ -1,7 +1,7 @@
 from typing import Any, Dict
 from uuid import UUID
 from langchain_core.documents import Document
-from ..digital_twin.langchain import *
+from ..digital_twin.main_with_retrieval import *
 import time
 import os
 

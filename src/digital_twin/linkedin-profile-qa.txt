@@ -1,0 +1,213 @@
+Question: Where did Savas Parastatidis attend university for his PhD?
+Answer: Newcastle University, School of Computing Science, in Newcastle upon Tyne, United Kingdom.
+
+Question: What was the title of Savas Parastatidis's PhD thesis?
+Answer: Run-time Support for Parallel Object-Oriented Computing.
+
+Question: When did Savas Parastatidis start his PhD at Newcastle University?
+Answer: Sep 1996.
+
+Question: When did Savas Parastatidis complete his PhD at Newcastle University?
+Answer: Sep 2000.
+
+Question: What areas did Savas Parastatidis's PhD research cover?
+Answer: Load-balancing, high-speed communications, and clustering.
+
+Question: Where did Savas Parastatidis earn his Master of Science degree?
+Answer: School of Computing Science, Newcastle University, in Newcastle upon Tyne, United Kingdom.
+
+Question: What dates did Savas Parastatidis attend Newcastle University for his Master's degree?
+Answer: From Oct 1995 to Aug 1996.
+
+Question: What was the area of focus for Savas Parastatidis's dissertation work during his Master's program?
+Answer: Run-time support for mobile agents.
+
+Question: Did Savas Parastatidis receive any academic achievement awards during his Master's program?
+Answer: Yes, he achieved the highest marks in his year.
+
+Question: Where did Savas Parastatidis earn his Bachelor of Science degree?
+Answer: Technological Educational Institute, Information Technology, in Thessaloniki, Greece.
+
+Question: What dates did Savas Parastatidis attend the Technological Educational Institute for his Bachelor's degree?
+Answer: From Oct 1991 to Sep 1995.
+
+Question: How did Savas Parastatidis perform academically during his Bachelor's program?
+Answer: He was second in his class.
+
+Question: What was the focus of Savas Parastatidis's final-year project during his Bachelor's program?
+Answer: DNS and sendmail.
+
+Question: Was Savas Parastatidis's final-year project awarded any distinction?
+Answer: Yes, it was awarded with distinction.
+
+Question: Where did Savas Parastatidis work as a Software Engineer from Feb 2023 to Mar 2024?
+Answer: Meta in Redmond, Washington, United States.
+
+Question: What was Savas Parastatidis's role at Magnit from Nov 2022 to Feb 2023?
+Answer: Software Engineer @ Meta - Reality Labs Research.
+
+Question: Where did Savas Parastatidis work as a Senior Principal Engineer, Alexa Artificial Intelligence from Mar 2019 to Jun 2022?
+Answer: Amazon in the Greater Seattle Area.
+
+Question: What were Savas Parastatidis's accomplishments as a Partner Software Architect at Microsoft from May 2016 to Jan 2019?
+Answer: Oversaw Cortana's overall architecture, led the design and implementation of the next generation interaction management engine, and oversaw the protocol and implementation for the Invoke Speaker.
+
+Question: Where did Savas Parastatidis work as a Software Engineer from Jan 2015 to May 2016?
+Answer: Facebook in Menlo Park, CA and Seattle, WA.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Microsoft from Dec 2011 to Dec 2014?
+Answer: Principal Software Architect, prototyped the cloud-based experience that became Cortana, co-founded the Cortana initiative, and architected and coordinated the technical design across teams for the set of services that powered the Cortana experience on phones.
+
+Question: Where did Savas Parastatidis work as a Principal Software Engineer from 2008 to Nov 2011?
+Answer: Microsoft in Redmond, Washington, United States.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Microsoft from 2006 to 2008?
+Answer: Principal Software Architect, worked on technologies, services, and tools to help scientists and researchers be more productive and efficient, and led a team of 20 that implemented Zentity.
+
+Question: Where did Savas Parastatidis work as a Program Manager from Sep 2005 to 2006?
+Answer: Microsoft.
+
+Question: What were Savas Parastatidis's roles and accomplishments at the University of Newcastle from Jan 2003 to Sep 2005?
+Answer: Chief Software Architect and Principal Research Associate, research in service-oriented, distributed, high-performance computing, architecture and design of the North-East Regional eScience Center’s research projects.
+
+Question: Where did Savas Parastatidis fulfill his military service duty from Dec 2001 to Jan 2003?
+Answer: Greek Army Forces.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Hewlett-Packard from Jan 2001 to Oct 2001?
+Answer: Senior Software Engineer, co-investigator in an R&D team in Transactions for Web Services, principal role in the research, design, and implementation of the XML Transaction Service (XTS).
+
+Question: Where did Savas Parastatidis work as a Research Associate from 2000 to 2001?
+Answer: University of Newcastle.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Meta from Feb 2023 to Mar 2024?
+Answer: Software Engineer, worked on various projects.
+
+Question: How long did Savas Parastatidis work as a Senior Principal Engineer, Alexa Artificial Intelligence at Amazon?
+Answer: From Mar 2019 to Jun 2022.
+
+Question: What was the location of Savas Parastatidis's work as a Partner Software Architect at Microsoft?
+Answer: Not specified.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Facebook from Jan 2015 to May 2016?
+Answer: Software Engineer, designed and prototyped various projects.
+
+Question: Where did Savas Parastatidis work as a Principal Software Architect from Dec 2011 to Dec 2014?
+Answer: Microsoft in an unspecified location.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Microsoft from 2008 to Nov 2011?
+Answer: Principal Software Engineer, worked on various projects related to parallel, high-performance computing.
+
+Question: Where did Savas Parastatidis work as a Principal Software Architect from 2006 to 2008?
+Answer: Microsoft in an unspecified location.
+
+Question: What were Savas Parastatidis's roles and accomplishments at the University of Newcastle from Jan 2003 to Sep 2005?
+Answer: Chief Software Architect and Principal Research Associate, research in service-oriented, distributed, high-performance computing.
+
+Question: Where did Savas Parastatidis work as a Private from Dec 2001 to Jan 2003?
+Answer: Greek Army Forces in an unspecified location.
+
+Question: What were Savas Parastatidis's roles and accomplishments at Hewlett-Packard from Jan 2001 to Oct 2001?
+Answer: Senior Software Engineer, co-investigator in an R&D team in Transactions for Web Services.
+
+Question: Where did Savas Parastatidis work as a Research Associate from 2000 to 2001?
+Answer: University of Newcastle in an unspecified location.
+
+Question: What is Savas Parastatidis' first name?
+Answer: Savas
+Question: What is Savas Parastatidis' last name?
+Answer: Parastatidis
+Question: When was Savas Parastatidis born?
+Answer: Apr 15, 1973
+Question: Where does Savas Parastatidis work?
+Answer: Meta's Reality Labs
+Question: What is Savas Parastatidis' job title?
+Answer: Software Engineer
+Question: What is Savas Parastatidis' area of expertise?
+Answer: Applied AI, distributed systems, cloud computing, large scale systems, digital personal assistant experiences, natural interaction systems, augmented/mixed reality systems, semantics
+Question: How many years of experience does Savas Parastatidis have in product delivery and technology research & development?
+Answer: Over 20 years
+Question: What industry does Savas Parastatidis work in?
+Answer: Software Development
+Question: Where is Savas Parastatidis located?
+Answer: Greater Seattle Area
+Question: What is the zip code of Savas Parastatidis' location?
+Answer: 98033
+Question: What is the website of Savas Parastatidis?
+Answer: https://savas.me
+Question: What does Savas Parastatidis work towards in his career?
+Answer: The application of Artificial Intelligence to enhance human capabilities by understanding egocentric physical/digital contexts and enabling seamless, natural user experiences.
+
+Question: What project did Savas Parastatidis work on from Jan 2012 to Jan 2019?
+Answer: Cortana.
+
+Question: What type of project is Cortana?
+Answer: Personal Digital Assistant.
+
+Question: When did Savas Parastatidis start working on Cortana?
+Answer: Jan 2012.
+
+Question: When did Savas Parastatidis finish working on Cortana?
+Answer: Jan 2019.
+
+Question: What project did Savas Parastatidis work on from Mar 2019 to Jun 2022?
+Answer: Alexa.
+
+Question: Where can more information about Alexa be found?
+Answer: https://www.amazon.com/b?node=21576558011.
+
+Question: When did Savas Parastatidis start working on Alexa?
+Answer: Mar 2019.
+
+Question: When did Savas Parastatidis finish working on Alexa?
+Answer: Jun 2022.
+
+Question: What is one of Savas Parastatidis's skills?
+Answer: Computer Science
+Question: Is Scalability a skill that Savas Parastatidis possesses?
+Answer: Yes
+Question: What area of computer science does Savas Parastatidis have expertise in?
+Answer: Distributed Systems
+Question: Can Savas Parastatidis program?
+Answer: Yes
+Question: What type of computing is Savas Parastatidis familiar with?
+Answer: Cloud Computing
+Question: Does Savas Parastatidis have knowledge of software architecture?
+Answer: Yes
+Question: Is SOA one of the skills that Savas Parastatidis has?
+Answer: Yes
+Question: Can Savas Parastatidis design web services?
+Answer: Yes
+Question: What type of engineering is Savas Parastatidis skilled in?
+Answer: Software Engineering
+Question: Which programming languages is Savas Parastatidis proficient in?
+Answer: Java and C#
+Question: Is software development one of Savas Parastatidis's skills?
+Answer: Yes
+Question: Does Savas Parastatidis have knowledge of algorithms?
+Answer: Yes
+Question: What type of web services is Savas Parastatidis familiar with?
+Answer: REST
+Question: Can Savas Parastatidis design software?
+Answer: Yes
+Question: Is enterprise architecture one of the areas where Savas Parastatidis has expertise?
+Answer: Yes
+Question: Does Savas Parastatidis have knowledge of semantics?
+Answer: Yes
+Question: What type of web is Savas Parastatidis familiar with?
+Answer: Semantic Web
+Question: Can Savas Parastatidis work with ontologies?
+Answer: Yes
+Question: Is linked data one of the areas where Savas Parastatidis has expertise?
+Answer: Yes
+Question: What type of systems is Savas Parastatidis experienced in working with?
+Answer: Large Scale Systems
+Question: Does Savas Parastatidis have knowledge of high performance computing?
+Answer: Yes
+Question: Which methodologies is Savas Parastatidis familiar with?
+Answer: Agile Methodologies
+Question: Can Savas Parastatidis provide technical leadership?
+Answer: Yes
+Question: What type of architecture is Savas Parastatidis knowledgeable about?
+Answer: System Architecture and Enterprise Architecture
+Question: Is web applications one of the areas where Savas Parastatidis has skills?
+Answer: Yes

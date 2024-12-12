@@ -1,0 +1,18 @@
+{
+    "profile": [
+        {
+            "First Name": "Savas",
+            "Last Name": "Parastatidis",
+            "Address": "",
+            "Birthdate": "Apr 15, 1973",
+            "Headline": "Software Engineer at Meta's Reality Labs",
+            "Summary": "I am a seasoned technical leader with over 20 years of experience in product delivery and advanced technology research & development. I work towards the application of Artificial Intelligence to enhance human capabilities by understanding egocentric physical/digital contexts and by enabling seamless, natural user experiences.  Technical expertise in: Applied AI; distributed systems; cloud computing; large scale systems; digital personal assistant experiences; natural interaction systems; augmented/mixed reality systems; semantics.",
+            "Industry": "Software Development",
+            "Zip Code": "98033",
+            "Geo Location": "Greater Seattle Area",
+            "Websites": [
+                "https://savas.me"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "education": [
+            "School Name",
+            "University",
+            "Location",
+            "Start Date",
+            "End Data",
+            "Notes",
+            "Degree Name"
+        ],
+        "jobs": [
+            "Company Name",
+            "Title",
+            "Description",
+            "Location",
+            "Started On",
+            "Finished On"
+        ],
+        "profile": [
+            "First Name",
+            "Last Name",
+            "Address",
+            "Birth Date",
+            "Headline",
+            "Summary",
+            "Industry",
+            "Zip Code",
+            "Geo Location",
+            "Geo Location",
+            "Websites"
+        ],
+        "projects": [
+            "Title",
+            "Description",
+            "Url",
+            "Started On",
+            "Finished On"
+        ],
+        "skills": [
+            "Name"
+        ]
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "education": [
+        {
+            "School Name": "School of Computing Science",
+            "University": "Newcastle University",
+            "Location": "Newcastle upon Tyne, United Kingdom",
+            "Start Date": "Sep 1996",
+            "End Date": "Sep 2000",
+            "Notes": "Title of PhD thesis: Run-time Support for Parallel Object-Oriented Computing. The research work involved the implementation of an all-in software object-based DSM system, novel object caching techniques for distributed systems, and a new lazy task creation technique. The thesis dealt with design and implementation issues in the areas of load-balancing, high-speed communications, and clustering.",
+            "Degree Name": [
+                "PhD",
+                "Doctor of Philosophy"
+            ]
+        },
+        {
+            "School Name": "School of Computing Science",
+            "University": "Newcastle University",
+            "Location": "Newcastle upon Tyne, United Kingdom",
+            "Start Date": "Oct 1995",
+            "End Date": "Aug 1996",
+            "Notes": "Achieved highest marks in year. Dissertation work was in the area of run time support for mobile agents.",
+            "Degree Name": [
+                "MSc",
+                "Master of Science"
+            ]
+        },
+        {
+            "School Name": "Information Technology",
+            "University": "Technological Educational Institute",
+            "Location": "Thessaloniki, Greece",
+            "Start Date": "Oct 1991",
+            "End Date": "Sep 1995",
+            "Notes": "Second in class. Final-year project on DNS and sendmail was awarded with distinction.",
+            "Degree Name": [
+                "BSc",
+                "Bachelor of Science"
+            ]
+        }
+    ],
+    "jobs": [
+        {
+            "Company Name": "Meta",
+            "Title": "Software Engineer",
+            "Description": "Reality Labs/XR Tech - Technical leadership, Contextual AI and Cloud Computing platform for VR/MR/AR.",
+            "Location": "United States",
+            "Started On": "Mar 2024",
+            "Finished On": ""
+        },
+        {
+            "Company Name": "Meta",
+            "Title": "Software Engineer",
+            "Description": "Software Architecture and Engineering Leadership. Overall coordination, system design, and execution for an LLM-based prototype system that supports continuous sensing experiences with vision understanding, language understanding, eye tracking, object referencing, EMG-detected gestures, and more. I aligned the execution across a multi-disciplinary team, set up and drove the software engineering process, and was hands-on with the development of the system.",
+            "Location": "Redmond, Washington, United States",
+            "Started On": "Feb 2023",
+            "Finished On": "Mar 2024"
+        },
+        {
+            "Company Name": "Magnit",
+            "Title": "Software Engineer @ Meta - Reality Labs Research",
+            "Description": "",
+            "Location": "Redmond, Washington, United States",
+            "Started On": "Nov 2022",
+            "Finished On": "Feb 2023"
+        },
+        {
+            "Company Name": "Amazon",
+            "Title": "Senior Principal Engineer, Alexa Artificial Intelligence",
+            "Description": "Provided technical leadership across Alexa. Initiated and delivered Alexa\u2019s multi-skill experiences. Designed and delivered the Alexa Conversations Description Language (ACDL) and related developer-facing tooling. Designed and championed Alexa Schema as the shared ontology across all of Alexa. Initiated a re-architecture of Alexa to support natural, multi-modal interactions (ongoing). Led Alexa\u2019s 180+ community of Principal and Distinguished engineers and scientists.",
+            "Location": "Greater Seattle Area",
+            "Started On": "Mar 2019",
+            "Finished On": "Jun 2022"
+        },
+        {
+            "Company Name": "Microsoft",
+            "Title": "Partner Software Architect",
+            "Description": "Oversaw Cortana's overall architecture, ensured technology alignment across the product. Led the design and implementation of the next generation interaction management engine. Oversaw the protocol and implementation for the Invoke Speaker, the Cortana-Alexa integration, and Cortana in Skype. Led initiatives to support user-centric experiences such as a user-centric (vs device-centric) notification service and single user profile across Microsoft\u2019s products.",
+            "Location": "Greater Seattle Area",
+            "Started On": "May 2016",
+            "Finished On": "Jan 2019"
+        },
+        {
+            "Company Name": "Facebook",
+            "Title": "Software Engineer",
+            "Description": "Designed the language understanding platform that processed every post and comment on Facebook to recognize recommendation/direction requests, congratulation messages, and others. Built the language annotation experience. Prototyped a digital friend.",
+            "Location": "Menlo Park, CA and Seattle, WA",
+            "Started On": "Jan 2015",
+            "Finished On": "May 2016"
+        },
+        {
+            "Company Name": "Microsoft",
+            "Title": "Principal Software Architect",
+            "Description": "Prototyped, together with researchers, the cloud-based experience that became Cortana. Co-founded the Cortana initiative. Architected and coordinated the technical design across teams for the set of services that powered the Cortana experience on phones. Contributed to growing the Cortana cloud organization from a single employee (me) to hundreds. Coordinated Cortana\u2019s cloud services design across multiple teams of thousands. Designed and oversaw the technical execution on key systems such as the Reactor distributed stream processing engine (processed billions of events per day), Personal Data Platform, frontend service, conversational understanding, and more. Delivered the architecture of the voice-based search experience for Xbox + Kinect. Software engineering work on the first version of Bing\u2019s runtime orchestration engine. Highlight: Awarded third \u201cgold star\u201d which was Microsoft\u2019s recognition for high achievement and impact.",
+            "Location": "Bellevue, WA",
+            "Started On": "Dec 2011",
+            "Finished On": "Dec 2014"
+        },
+        {
+            "Company Name": "Microsoft",
+            "Title": "Principal Software Engineer",
+            "Description": "Prototyped cloud-based infrastructure for big data, compute-intensive workloads for high-performance scenarios using the dryad dataflow computational model (more general version of map-reduce). Invented and prototyped a NoSQL \u201cactive\u201d store to support the reactive/stream processing and actor-based computational models. Engineering work on the first version of Bing's runtime orchestration engine. Semantic search prototype for Bing. Highlight: Awarded second \u201cGold Star\u201d and ranked as \u201ctop performer\u201d for the prototyping work.",
+            "Location": "Redmond, Washington, United States",
+            "Started On": "2008",
+            "Finished On": "Nov 2011"
+        },
+        {
+            "Company Name": "Microsoft",
+            "Title": "Principal Software Architect",
+            "Description": "Worked on technologies, services, and tools to help scientists and researchers be more productive and efficient. Architected, prototyped, and led a team of 20 that implemented Zentity (a graph store to manage an organization\u2019s research output). Technical lead for External Research\u2019s \u201cCloud Computing for Science\u201d vision, implementation, and deployment. Program management of the Microsoft-Intel joined Universal Parallel Computing Research Centers initiative. Design and development of various plugins for Office for researchers (released as open source). Leading collaborations with scientists worldwide. Highlight: Awarded \u201cGold Star\u201d and ranked as \u201ctop performer\u201d for my impact.",
+            "Location": "",
+            "Started On": "2006",
+            "Finished On": "2008"
+        },
+        {
+            "Company Name": "Microsoft",
+            "Title": "Program Manager",
+            "Description": "Editor of two key Web Services (WS-*) specifications on behalf of Microsoft. Design and prototyping work on \u201cOslo\u201d, a declarative, data-oriented programming language.",
+            "Location": "",
+            "Started On": "Sep 2005",
+            "Finished On": "2006"
+        },
+        {
+            "Company Name": "University of Newcastle",
+            "Title": "Chief Software Architect and Principal Research Associate",
+            "Description": "Research in the areas of service-oriented, distributed, high-performance computing with an emphasis on Internet-scale architectures. The focal point was the articulation of architectural principles for Internet-scale computing and how they could be applied using Web Services technologies in service of eScience applications. Architecture and design of the North-East Regional eScience Center\u2019s research projects. Standardization work in the Web Services and Grid Computing organizations.",
+            "Location": "",
+            "Started On": "Jan 2003",
+            "Finished On": "Sep 2005"
+        },
+        {
+            "Company Name": "Greek Army Forces",
+            "Title": "Private",
+            "Description": "Fulfillment of the military service duty (awarded a distinction of honor).",
+            "Location": "",
+            "Started On": "Dec 2001",
+            "Finished On": "Jan 2003"
+        },
+        {
+            "Company Name": "Hewlett-Packard",
+            "Title": "Senior Software Engineer",
+            "Description": "Co-investigator in an R&D team in Transactions for Web Services. Principal role in the research, design, and implementation of the XML Transaction Service (XTS) the prototype on which the HP-WTS 1.0 product was based.",
+            "Location": "",
+            "Started On": "Jan 2001",
+            "Finished On": "Oct 2001"
+        },
+        {
+            "Company Name": "University of Newcastle",
+            "Title": "Research Associate",
+            "Description": "Post-doctoral research in parallel, high-performance computing using clusters of workstations and object-oriented, visual programming languages for parallel computing.",
+            "Location": "",
+            "Started On": "2000",
+            "Finished On": "2001"
+        }
+    ],
+    "profile": [
+        {
+            "First Name": "Savas",
+            "Last Name": "Parastatidis",
+            "Address": "",
+            "Birth Date": "Apr 15, 1973",
+            "Headline": "Software Engineer at Meta's Reality Labs",
+            "Summary": "I am a seasoned technical leader with over 20 years of experience in product delivery and advanced technology research & development. I work towards the application of Artificial Intelligence to enhance human capabilities by understanding egocentric physical/digital contexts and by enabling seamless, natural user experiences.  Technical expertise in: Applied AI; distributed systems; cloud computing; large scale systems; digital personal assistant experiences; natural interaction systems; augmented/mixed reality systems; semantics.",
+            "Industry": "Software Development",
+            "Zip Code": "98033",
+            "Geo Location": "Greater Seattle Area",
+            "Websites": [
+                "https://savas.me"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "Title": "Cortana",
+            "Description": "Personal Digital Assistant",
+            "Url": "",
+            "Started On": "Jan 2012",
+            "Finished On": "Jan 2019"
+        },
+        {
+            "Title": "Alexa",
+            "Description": "",
+            "Url": "https://www.amazon.com/b?node=21576558011",
+            "Started On": "Mar 2019",
+            "Finished On": "Jun 2022"
+        }
+    ],
+    "skills": [
+        {
+            "Name": "Computer Science"
+        },
+        {
+            "Name": "Scalability"
+        },
+        {
+            "Name": "Distributed Systems"
+        },
+        {
+            "Name": "Programming"
+        },
+        {
+            "Name": "Cloud Computing"
+        },
+        {
+            "Name": "Architecture"
+        },
+        {
+            "Name": "SOA"
+        },
+        {
+            "Name": "Web Services"
+        },
+        {
+            "Name": "Software Engineering"
+        },
+        {
+            "Name": "Java"
+        },
+        {
+            "Name": "C#"
+        },
+        {
+            "Name": "Software Development"
+        },
+        {
+            "Name": "Algorithms"
+        },
+        {
+            "Name": "REST"
+        },
+        {
+            "Name": "Software Design"
+        },
+        {
+            "Name": "Enterprise Architecture"
+        },
+        {
+            "Name": "Semantics"
+        },
+        {
+            "Name": "Semantic Web"
+        },
+        {
+            "Name": "Ontologies"
+        },
+        {
+            "Name": "Linked Data"
+        },
+        {
+            "Name": "Large Scale Systems"
+        },
+        {
+            "Name": "High Performance Computing"
+        },
+        {
+            "Name": "Agile Methodologies"
+        },
+        {
+            "Name": "System Architecture"
+        },
+        {
+            "Name": "Technical Leadership"
+        },
+        {
+            "Name": "Architectures"
+        },
+        {
+            "Name": "Web Applications"
+        }
+    ]
+}
